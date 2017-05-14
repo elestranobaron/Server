@@ -275,7 +275,7 @@ MOB_HP                ( 52500 )
 MOB_DODGE_SKILL       ( 890 )
 MOB_AC                ( 100 )
 MOB_LEVEL             ( 200 )
-MOB_XP_PER_HIT        ( 55 )//BLBL 60=>55
+MOB_XP_PER_HIT        ( 50 )//BLBL 60=>55 // steph 50 au lieu de 55
 MOB_XP_DEATH          ( 200000 )
 MOB_MIN_GOLD          ( 400 )
 MOB_MAX_GOLD          ( 1500 )
@@ -342,7 +342,7 @@ MOB_HP                ( 6334 )
 MOB_DODGE_SKILL       ( 620 )//BLBL 610=>620
 MOB_AC                ( 80 )//BLBL 75=>80
 MOB_LEVEL             ( 150 )
-MOB_XP_PER_HIT        ( 10.04 )//BLBL 11.04 => 10.04
+MOB_XP_PER_HIT        ( 9 )//BLBL 11.04 => 10.04 // steph 9 au lieu de 10.04
 MOB_XP_DEATH          ( 34954.67 )
 MOB_MIN_GOLD          ( 269 )
 MOB_MAX_GOLD          ( 825 )

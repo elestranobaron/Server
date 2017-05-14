@@ -22,9 +22,9 @@ void OracleQuickChest2b::Create( void )
 {
       npc = ( OracleChestNPC );
       SET_NPC_NAME( "[10840]wooden chest" );  
-      npc.InitialPos.X = 1407;//2760; 
-      npc.InitialPos.Y = 1422;//2264;
-      npc.InitialPos.world = 0;//2;
+      npc.InitialPos.X = 2760; 
+      npc.InitialPos.Y = 2264;
+      npc.InitialPos.world = 2;
 }
 
 void OracleQuickChest2b::OnInitialise( UNIT_FUNC_PROTOTYPE ){

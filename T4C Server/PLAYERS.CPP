@@ -167,6 +167,21 @@ void Players::InitializeODBC( void )
 	ODBCUsers.Connect( USERS_DSN, USERS_USER, USERS_PWD );
 
     TFormat format;
+
+
+
+	//////////////////////////////////////////////////////////////////////////////////////////
+	// steph ajout
+	//////////////////////////////////////////////////////////////////////////////////////////
+	ODBCUsers.SendRequest(
+		format(
+			"DELETE FROM Flags WHERE FlagID='14'", 
+			(LPCTSTR)theApp.csMachineName
+		)
+	);
+
+
+
     // Flush all online user records.
     ODBCUsers.SendRequest( 
         format( 

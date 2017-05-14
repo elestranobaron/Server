@@ -820,7 +820,7 @@ void CPlayerManager::PlayerMaintenance
 														
 							if (lpPlayer->MoveList.size()>0){
 
-								const INT MoveExhaust = 100 MILLISECONDS;//BLBLBL 200=>400=>200 pour cette boucle là, à 100 on peut encore speedhacker !! // steph ajout de INT // steph 100 au lieu de 200
+								const INT MoveExhaust = 2 MILLISECONDS;//BLBLBL 200=>400=>200 pour cette boucle là, à 100 on peut encore speedhacker !! // steph ajout de INT // steph 2 au lieu de 200
 								TFCPacket sending;
 								WorldPos tmp;
 								char searchway;

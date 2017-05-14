@@ -201,7 +201,7 @@ void Doors::OnUse
             );
 
             TFCTimerManager::AddTimer( 100, 10 SECONDS, AutoClose, self, TRUE );
-			TFCTimerManager::AddTimer( 101, 60 SECONDS, FinalClose, self, TRUE );
+			//TFCTimerManager::AddTimer( 101, 60 SECONDS, FinalClose, self, TRUE ); // steph désactivation
 		}
 	}
 
