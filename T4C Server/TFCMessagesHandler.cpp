@@ -800,7 +800,7 @@ void TFCMessagesHandler::RQFUNC_PlayerMove
 {
     RQ_HEADER;
 
-    const INT MoveExhaust = 2 MILLISECONDS;//BLBLBL 200=>400=>200 remis à 200 sinon on a un accoup au démarrage d'une séquence de marche // steph ajout de INT // steph 2 au lieu de 200
+    const INT MoveExhaust = 0;//BLBLBL 200=>400=>200 remis à 200 sinon on a un accoup au démarrage d'une séquence de marche // steph ajout de INT // steph 0 au lieu de 200 MILLISECONDS
 
     TFCPacket sending;
 
@@ -892,7 +892,7 @@ void TFCMessagesHandler::RQFUNC_PlayerMove
 						}   
 						
 						//on ne mémorise les déplacements qui arrivent que si le joueur n'est pas exhausté :
-						if (user->MoveList.size()<3 &&  newExhaust.move < TFCMAIN::GetRound() + 2 MILLISECONDS) { // steph 2 au lieu de 200
+						if (user->MoveList.size()<3 &&  newExhaust.move < TFCMAIN::GetRound() /* + 200 MILLISECONDS // steph désactivation */) {
 							//user->Lock();apparement cause un pb de RST (flag qui s'attribue plus bien)
 							user->MoveList.push_back(rqRequestID);//BLBL on stocke la direction qui a foiré
 							//user->Unlock();apparement cause un pb de RST (flag qui s'attribue plus bien)

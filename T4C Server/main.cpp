@@ -1433,8 +1433,8 @@ void CDECL EntryFunction(void *cu)
         
         printf( "-----                                                   "
                 "\n%s.                                                   "
-                "\nCopyright(c) Dialsoft inc. 1998-2011.                 "
-				"\nThe 4th Coming : Rebirth special edition RC           "
+                "\nCopyright(c) Rebirth inc. 1998-2017.                  "
+				"\nT4C: Rebirth special edition RC                       "
 				"\nAll rights reserved.\n                                "
                 "\n-----                                                 ",
 				Version::sBuildStamp.c_str()

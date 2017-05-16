@@ -44,12 +44,12 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "Comments", "Use of this program is ILLEGAL if not agreed by Dialsoft, on a written form.\0"
-            VALUE "CompanyName", "The 4th Coming : Rebirth\0"
+            VALUE "Comments", "Use of this program is ILLEGAL if not agreed by Rebirth, on a written form.\0"
+            VALUE "CompanyName", "T4C: Rebirth\0"
             VALUE "FileDescription", "T4C Server\0"
             VALUE "FileVersion", "1, 0, 0, 1\0"
             VALUE "InternalName", "T4C Server\0"
-            VALUE "LegalCopyright", "Copyright (C) Dialsoft inc. 1998\0"
+            VALUE "LegalCopyright", "Copyright (C) Rebirth inc. 1998\0"
             VALUE "LegalTrademarks", "\0"
             VALUE "OriginalFilename", "T4C Server.EXE\0"
             VALUE "PrivateBuild", "\0"
