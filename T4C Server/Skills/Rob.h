@@ -1,7 +1,3 @@
-// Rob.h: interface for the Rob class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ROB_H__CB86BB9B_74D6_11D2_8447_00E02922FA40__INCLUDED_)
 #define AFX_ROB_H__CB86BB9B_74D6_11D2_8447_00E02922FA40__INCLUDED_
 

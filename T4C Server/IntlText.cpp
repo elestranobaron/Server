@@ -1,7 +1,3 @@
-// IntlText.cpp: implementation of the IntlText class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "IntlText.h"

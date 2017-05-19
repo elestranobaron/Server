@@ -1,25 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: EffectListing.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  23/3/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         23/3/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          Lists all spell effects.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
 #define EFFECT_STUN_BLOW					1
 #define EFFECT_WAR_CRY						2
 #define EFFECT_REMOVE_TRAP_DETECTED			3

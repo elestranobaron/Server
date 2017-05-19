@@ -1,9 +1,3 @@
-// GenericSkill.h: interface for the GenericSkill class.
-//
-//////////////////////////////////////////////////////////////////////
-
-// This is a template used for 'craft' skills, which are used by NPCs.
-
 #if !defined(AFX_GENERICSKILL_H__D375A3A3_F9A1_11D2_84EC_00E02922FA40__INCLUDED_)
 #define AFX_GENERICSKILL_H__D375A3A3_F9A1_11D2_84EC_00E02922FA40__INCLUDED_
 

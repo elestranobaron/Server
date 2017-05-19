@@ -1,7 +1,3 @@
-// Bow.h: interface for the Bow class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_BOW_H__40CA51B4_D762_11D0_B566_00E029058623__INCLUDED_)
 #define AFX_BOW_H__40CA51B4_D762_11D0_B566_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// AttrBoost.h: interface for the AttrBoost class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ATTRBOOST_H__78DFAECF_1C1E_11D2_8397_00E02922FA40__INCLUDED_)
 #define AFX_ATTRBOOST_H__78DFAECF_1C1E_11D2_8397_00E02922FA40__INCLUDED_
 

@@ -1,7 +1,3 @@
-// UnitEffectManager.cpp: implementation of the UnitEffectManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "UnitEffectManager.h"

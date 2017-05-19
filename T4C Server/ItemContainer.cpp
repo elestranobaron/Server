@@ -1,15 +1,3 @@
-/*
-ItemContainer.cpp
-Implementation file for the Item Container object.
-Its designed to be used on the chest (online mule) and trade system and also any other thing it may apply latter
-
-Originally Written by Carlos Lima (carlos@dialsoft.com)
-for Dialsoft (http://www.dialsoft.com)
-*/
-/*
-	Modification:
-	Desboys (SD) : 11/08/2005 : Improved a bit GetFreeWeight(), removing one call to GetWeight()
-*/
 #include "stdafx.h"
 #include "ItemContainer.h"
 #include "_item.h"

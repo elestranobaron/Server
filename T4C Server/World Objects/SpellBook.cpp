@@ -1,7 +1,3 @@
-// SpellBook.cpp: implementation of the SpellBook class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "SpellBook.h"
 #include "..\Character.h"

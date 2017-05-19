@@ -1,7 +1,3 @@
-// RegKeyHandler.cpp: implementation of the RegKeyHandler class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "RegKeyHandler.h"
 

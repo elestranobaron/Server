@@ -1,7 +1,3 @@
-// ConjureEffect.h: interface for the ConjureEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CONJUREEFFECT_H__38165724_1A5B_11D2_837C_00E02922FA40__INCLUDED_)
 #define AFX_CONJUREEFFECT_H__38165724_1A5B_11D2_837C_00E02922FA40__INCLUDED_
 

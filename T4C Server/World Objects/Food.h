@@ -1,7 +1,3 @@
-// Food.h: interface for the Food class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_FOOD_H__DEC4A375_4EDB_11D1_BD70_00E029058623__INCLUDED_)
 #define AFX_FOOD_H__DEC4A375_4EDB_11D1_BD70_00E029058623__INCLUDED_
 

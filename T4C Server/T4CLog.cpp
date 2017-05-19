@@ -1,7 +1,3 @@
-// T4CLog.cpp: implementation of the CT4CLog class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "ODBCMage.h"
 #include "TFC Server.h"

@@ -1,7 +1,3 @@
-// PickLock.h: interface for the PickLock class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PICKLOCK_H__10840944_C384_11D1_AD9F_00E029058623__INCLUDED_)
 #define AFX_PICKLOCK_H__10840944_C384_11D1_AD9F_00E029058623__INCLUDED_
 

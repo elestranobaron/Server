@@ -1,5 +1,3 @@
-// Here are defined all messages passed to unit handling DLLs
-
 #define MSG_OnAttack				1	// Creatures, Characters, Effects
 #define MSG_OnAttacked				2	// Creatures, Characters, Effects
 #define MSG_OnDisturbed				3	// Objects

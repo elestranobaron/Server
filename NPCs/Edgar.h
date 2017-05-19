@@ -1,7 +1,3 @@
-// Edgar.h: interface for the Edgar class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCStructure.h"
 
 #ifndef __EDGAR_H

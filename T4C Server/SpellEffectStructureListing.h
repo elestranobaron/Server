@@ -1,27 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: SpellEffectStructureListing.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  25/6/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         25/6/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          Defines the standard, known spell effect structures.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
-
 #define HEALTH_EFFECT           1       // done
 #define ATTR_BOOST_EFFECT       2       // done
 #define FLAG_ADDING_EFFECT      3       // done

@@ -1,7 +1,3 @@
-// MainConsole.cpp: implementation of the MainConsole class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "MainConsole.h"

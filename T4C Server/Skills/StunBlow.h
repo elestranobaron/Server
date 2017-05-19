@@ -1,7 +1,3 @@
-// StunBlow.h: interface for the StunBlow class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_STUNBLOW_H__0753FE24_5546_11D1_BD7A_00E029058623__INCLUDED_)
 #define AFX_STUNBLOW_H__0753FE24_5546_11D1_BD7A_00E029058623__INCLUDED_
 

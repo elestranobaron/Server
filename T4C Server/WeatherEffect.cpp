@@ -1,7 +1,3 @@
-// WeatherEffect.cpp: implementation of the WeatherEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WeatherEffect.h"
 #include "Random.h"

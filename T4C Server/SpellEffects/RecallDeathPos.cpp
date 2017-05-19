@@ -1,6 +1,3 @@
-// RecallDeathPos.cpp: implementation of the RecallDeathPos class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "RecallDeathPos.h"
 

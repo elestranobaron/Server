@@ -1,7 +1,3 @@
-// SpellMessageHandler.cpp: implementation of the SpellMessageHandler class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "SpellMessageHandler.h"

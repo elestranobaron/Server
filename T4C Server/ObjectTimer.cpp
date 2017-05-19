@@ -1,7 +1,3 @@
-// ObjectTimer.cpp: implementation of the ObjectTimer class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "ObjectTimer.h"

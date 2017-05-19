@@ -1,5 +1,3 @@
-// Here are listed all races (players) of the game
-
 #ifndef __RACELISTING_H
 #define __RACELISTING_H
 

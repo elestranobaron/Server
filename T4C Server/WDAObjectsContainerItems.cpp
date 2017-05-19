@@ -1,7 +1,3 @@
-// WDAObjectsContainerItems.cpp: implementation of the WDAObjectsContainerItems class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAObjectsContainerItems.h"
 #include "Format.h"

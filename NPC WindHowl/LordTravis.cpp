@@ -1,6 +1,3 @@
-// LordTravis.cpp: implementation of the LordTravis class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "LordTravis.h"
 

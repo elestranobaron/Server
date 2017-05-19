@@ -1,6 +1,3 @@
-// Recall.cpp: implementation of the Recall class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "Recall.h"
 

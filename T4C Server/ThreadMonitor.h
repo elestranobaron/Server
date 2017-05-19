@@ -1,12 +1,3 @@
-/*
-Thread Monitor
-Written by Carlos Lima <carlos@dialsoft.com>
-2006-03-17
-
-This should register all running threads IDs and Names
-so we can track what crashed and what else was running 
-by that time.
-*/
 #include "Lock.h"
 #include <map>
 

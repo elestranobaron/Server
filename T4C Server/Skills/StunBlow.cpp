@@ -1,6 +1,3 @@
-// StunBlow.cpp: implementation of the StunBlow class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "StunBlow.h"
 

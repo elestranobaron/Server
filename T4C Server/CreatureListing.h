@@ -1,5 +1,3 @@
-// Here are listed all the creatures of the realm!!! :)
-
 #ifndef __CREATURE_LISTING_H
 #define __CREATURE_LISTING_H
 

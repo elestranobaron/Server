@@ -1,7 +1,3 @@
-// Invisibility.cpp: implementation of the Invisibility class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Invisibility.h"
 #include "../TFC_MAIN.h"

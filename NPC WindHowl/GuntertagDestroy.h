@@ -1,7 +1,3 @@
-// GuntertagDestroy.h: interface for the GuntertagDestroy class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_GUNTERTAGDESTROY_H__EE1E0186_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_GUNTERTAGDESTROY_H__EE1E0186_878D_11D1_BDE9_00E029058623__INCLUDED_
 

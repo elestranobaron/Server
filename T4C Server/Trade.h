@@ -1,12 +1,3 @@
-/*
-Trade.h
-Header file for the Trade object.
-Its designed to be used on the trade system and also any other thing it may apply latter
-
-Originally Written by Carlos Lima (carlos@dialsoft.com)
-for Dialsoft (http://www.dialsoft.com)
-*/
-
 #ifndef DIALSOFT_TRADE_H_2005_06_24_AKJHE_9083KLJA__INCLUDED_
 #define DIALSOFT_TRADE_H_2005_06_24_AKJHE_9083KLJA__INCLUDED_
 

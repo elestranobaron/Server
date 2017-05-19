@@ -1,6 +1,3 @@
-//////////////////////////////////////////////////////////////////////
-// Menark.cpp: implementation of the Menark class.
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include <complex>
 #include "Menark.h"
@@ -206,7 +203,7 @@ IF (CheckFlag(__FLAG_LIGHTBRINGER_OF_ARTHERK) == 1)
                         ENDIF
                 ENDCASE
                 OTHERWISE
-         PRIVATE_SYSTEM_MESSAGE(INTL( 10137, "[ERROR MENARK1.0] This text should not appear. If you see it, please report it to Vircom."))
+         PRIVATE_SYSTEM_MESSAGE(INTL( 10137, "[ERROR MENARK1.0] This text should not appear. If you see it, please report it to Rebirth."))
                 ENDCASE
         ENDSWITCH
 ELSE

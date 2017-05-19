@@ -1,25 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: ObjectListing.cpp
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  17/2/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         17/2/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          This files creates and initialisez the global variables.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "Unit.h"

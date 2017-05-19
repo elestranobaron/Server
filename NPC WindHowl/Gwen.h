@@ -1,7 +1,3 @@
-// Gwen.h: interface for the Gwen class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_GWEN_H__EE1E018E_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_GWEN_H__EE1E018E_878D_11D1_BDE9_00E029058623__INCLUDED_
 

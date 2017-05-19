@@ -1,6 +1,3 @@
-// TFCInit.cpp : implementation file
-//
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "TFCInit.h"
@@ -10,7 +7,6 @@
 #include "Players.h"
 #include "SharedStructures.h"
 #include "Clans.h"
-#include "TFC World.h"
 #include "DynObjManager.h"
 #include "WeatherEffect.h"
 //////////////////////////////////

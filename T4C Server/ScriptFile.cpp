@@ -1,7 +1,3 @@
-// ScriptFile.cpp: implementation of the ScriptFile class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "ScriptFile.h"
 #include <process.h>

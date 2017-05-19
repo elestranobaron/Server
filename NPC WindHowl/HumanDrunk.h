@@ -1,7 +1,3 @@
-// HumanDrunk.h: interface for the HumanDrunk class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_HUMANDRUNK_H__EE1E0194_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_HUMANDRUNK_H__EE1E0194_878D_11D1_BDE9_00E029058623__INCLUDED_
 

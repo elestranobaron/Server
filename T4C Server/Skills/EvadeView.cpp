@@ -1,6 +1,3 @@
-// EvadeView.cpp: implementation of the EvadeView class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "EvadeView.h"
 

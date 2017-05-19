@@ -1,7 +1,3 @@
-// Skills.h: interface for the Skills class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SKILLS_H__D02F3B81_5542_11D1_BD7A_00E029058623__INCLUDED_)
 #define AFX_SKILLS_H__D02F3B81_5542_11D1_BD7A_00E029058623__INCLUDED_
 

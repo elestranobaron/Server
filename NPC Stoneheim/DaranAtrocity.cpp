@@ -280,7 +280,7 @@ IF(CheckGlobalFlag(__QUEST_DARAN_CERTIFICATE) == CheckFlag(__QUEST_DARAN_CERTIFI
             ENDIF
 		ENDCASE
 		OTHERWISE
-			PRIVATE_SYSTEM_MESSAGE(INTL( 9239, "[ERROR DL1.5] This text should not appear. If you see it, please report it to Vircom."))
+			PRIVATE_SYSTEM_MESSAGE(INTL( 9239, "[ERROR DL1.5] This text should not appear. If you see it, please report it to Rebirth."))
         ENDCASE
 	ENDSWITCH
 ELSEIF(CheckFlag(__QUEST_DARAN_CERTIFICATE) != 0)

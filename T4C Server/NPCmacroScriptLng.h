@@ -1,5 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////////////
-// Here are defined the "NPC pseudo-script" functions
 #ifndef __NPCMACROSCRIPTLNG_H
 #define __NPCMACROSCRIPTLNG_H
 

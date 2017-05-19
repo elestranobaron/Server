@@ -1,7 +1,3 @@
-// HealthEffect.h: interface for the HealthEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_HEALTHEFFECT_H__65AF1064_0C35_11D2_835C_00E02922FA40__INCLUDED_)
 #define AFX_HEALTHEFFECT_H__65AF1064_0C35_11D2_835C_00E02922FA40__INCLUDED_
 

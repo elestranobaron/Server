@@ -1,7 +1,3 @@
-// Armor.cpp: implementation of the Armor class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Armor.h"
 

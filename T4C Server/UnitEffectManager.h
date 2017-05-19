@@ -1,7 +1,3 @@
-// UnitEffectManager.h: interface for the SpellEffectManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_GENERALEFFECTMANAGER_H__F64E97D4_C25B_11D1_AD9B_00E029058623__INCLUDED_)
 #define AFX_GENERALEFFECTMANAGER_H__F64E97D4_C25B_11D1_AD9B_00E029058623__INCLUDED_
 

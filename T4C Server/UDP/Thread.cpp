@@ -1,4 +1,3 @@
-// FILE INCLUDES
 #include "Thread.h"
 
 extern "C" int CommonThreadFunction(void* Data)

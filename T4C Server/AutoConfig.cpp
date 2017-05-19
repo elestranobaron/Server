@@ -1,7 +1,3 @@
-// AutoConfig.cpp: implementation of the CAutoConfig class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "AutoConfig.h"

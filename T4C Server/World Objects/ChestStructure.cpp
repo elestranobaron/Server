@@ -1,7 +1,3 @@
-// ChestStructure.cpp: implementation of the ChestStructure class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "ChestStructure.h"
 

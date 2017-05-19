@@ -1,7 +1,3 @@
-// WDALarvae.cpp: implementation of the WDALarvae class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDALarvae.h"
 #include "Format.h"

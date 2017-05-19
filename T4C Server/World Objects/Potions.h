@@ -1,7 +1,3 @@
-// Potions.h: interface for the Potions class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_POTIONS_H__DEC4A376_4EDB_11D1_BD70_00E029058623__INCLUDED_)
 #define AFX_POTIONS_H__DEC4A376_4EDB_11D1_BD70_00E029058623__INCLUDED_
 

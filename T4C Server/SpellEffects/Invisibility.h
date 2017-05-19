@@ -1,7 +1,3 @@
-// Invisibility.h: interface for the Invisibility class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_INVISIBILITY_H__E966D07D_B313_11D3_85DE_00E02922FA40__INCLUDED_)
 #define AFX_INVISIBILITY_H__E966D07D_B313_11D3_85DE_00E02922FA40__INCLUDED_
 

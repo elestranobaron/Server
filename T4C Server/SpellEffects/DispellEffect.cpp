@@ -1,6 +1,3 @@
-// DispellEffect.cpp: implementation of the DispellEffect class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 
 #include "DispellEffect.h"

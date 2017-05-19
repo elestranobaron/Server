@@ -1,7 +1,3 @@
-// WDASpells.cpp: implementation of the WDASpells class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDASpells.h"
 #include "Format.h"

@@ -1,12 +1,3 @@
-/*
-ItemContainer.h
-Header file for the Item Container object.
-Its designed to be used on the chest (online mule) and trade system and also any other thing it may apply latter
-
-Originally Written by Carlos Lima (carlos@dialsoft.com)
-for Dialsoft (http://www.dialsoft.com)
-*/
-
 #ifndef DIALSOFT_ITEMCONTAINER_H_2005_06_29_MNABVNDKJH987SH7_9H5VA1L4M2V0__INCLUDED_
 #define DIALSOFT_ITEMCONTAINER_H_2005_06_29_MNABVNDKJH987SH7_9H5VA1L4M2V0__INCLUDED_
 

@@ -1,7 +1,3 @@
-// Araknor.h: interface for the Araknor class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ARAKNOR_H__DEE8E310_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_ARAKNOR_H__DEE8E310_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// Sword.h: interface for the Sword class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SWORD_H__AA87D2A4_D6BD_11D0_B565_00E029058623__INCLUDED_)
 #define AFX_SWORD_H__AA87D2A4_D6BD_11D0_B565_00E029058623__INCLUDED_
 

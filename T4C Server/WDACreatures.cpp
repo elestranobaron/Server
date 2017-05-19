@@ -1,7 +1,3 @@
-// WDACreatures.cpp: implementation of the WDACreatures class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDACreatures.h"
 #include "format.h"

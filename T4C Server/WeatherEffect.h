@@ -1,7 +1,3 @@
-// WeatherEffect.h: interface for the WeatherEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_WEATHEREFFECT_H__50C1F85A_093D_4E1E_A32E_198D020DE6C5__INCLUDED_)
 #define AFX_WEATHEREFFECT_H__50C1F85A_093D_4E1E_A32E_198D020DE6C5__INCLUDED_
 

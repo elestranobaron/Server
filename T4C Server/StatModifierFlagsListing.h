@@ -1,5 +1,3 @@
-// Here are listed all stat modifiers (including HP!) flags possible
-
 #ifndef __STATMODIFIERFLAGSLISTING_H
 #define __STATMODIFIERFLAGSLISTING_H
 

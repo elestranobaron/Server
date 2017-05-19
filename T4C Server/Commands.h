@@ -1,7 +1,3 @@
-// Commands.h: interface for the Commands class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_COMMANDS_H__A59AE261_3BCA_11D4_B5B2_00E0296B9056__INCLUDED_)
 #define AFX_COMMANDS_H__A59AE261_3BCA_11D4_B5B2_00E0296B9056__INCLUDED_
 

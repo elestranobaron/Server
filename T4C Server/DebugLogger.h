@@ -1,7 +1,3 @@
-// DebugLogger.h: interface for the DebugLogger class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DEBUGLOGGER_H__8D89B71E_024E_11D3_84F6_00E02922FA40__INCLUDED_)
 #define AFX_DEBUGLOGGER_H__8D89B71E_024E_11D3_84F6_00E02922FA40__INCLUDED_
 

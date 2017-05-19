@@ -1,6 +1,3 @@
-// HealthEffect.cpp: implementation of the HealthEffect class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "HealthEffect.h"
 #include "../blockinglisting.h"
@@ -146,7 +143,7 @@ int HealthEffect::DoUnitDamage
            	
             if( self->GetType() == U_PC ){
                 Players *lpPlayer = static_cast< Character *>( self )->GetPlayer();
-                if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+                if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
                     TFormat format;
                     self->SendSystemMessage(
                         format(
@@ -161,7 +158,7 @@ int HealthEffect::DoUnitDamage
             }
             if( target->GetType() == U_PC ){
                 Players *lpPlayer = static_cast< Character *>( target )->GetPlayer();
-                if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+                if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
                     TFormat format;
                     target->SendSystemMessage(
                         format(
@@ -231,7 +228,7 @@ int HealthEffect::DoUnitHealing
 
     if( self->GetType() == U_PC ){
         Players *lpPlayer = static_cast< Character *>( self )->GetPlayer();
-        if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+        if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
             TFormat format;
             self->SendSystemMessage(
                 format(
@@ -245,7 +242,7 @@ int HealthEffect::DoUnitHealing
     }else
     if( target->GetType() == U_PC ){
         Players *lpPlayer = static_cast< Character *>( target )->GetPlayer();
-        if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+        if( lpPlayer != NULL && lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
             TFormat format;
             target->SendSystemMessage(
                 format(

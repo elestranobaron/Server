@@ -1,6 +1,3 @@
-// DestinyGem.cpp: implementation of the DestinyGem class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "DestinyGem.h"
 

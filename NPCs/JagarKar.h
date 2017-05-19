@@ -1,7 +1,3 @@
-// JagarKar.h: interface for the JagarKar class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_JAGARKAR_H__DEE8E313_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_JAGARKAR_H__DEE8E313_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

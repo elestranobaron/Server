@@ -1,12 +1,3 @@
-/*
-Trade.cpp
-Implementation file for the Trade System.
-Its designed to handle all issues related to give Character class support for Trade
-
-Originally Written by Carlos Lima (carlos@dialsoft.com)
-for Dialsoft (http://www.dialsoft.com)
-*/
-
 #include "stdafx.h"
 #include "Trade.h"
 #include "T4CLog.h"

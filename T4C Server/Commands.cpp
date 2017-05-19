@@ -1,7 +1,3 @@
-// Commands.cpp: implementation of the Commands class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Commands.h"
 #include <algorithm>

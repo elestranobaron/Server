@@ -1,7 +1,3 @@
-//{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
-// Used by T4C Editor.rc
-//
 #define IDD_ABOUTBOX                    100
 #define IDD_NPCEDITOR_DLG               101
 #define IDR_MAINFRAME                   128

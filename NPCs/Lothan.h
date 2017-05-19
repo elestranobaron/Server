@@ -1,7 +1,3 @@
-// Lothan.h: interface for the Lothan class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_LOTHAN_H__DEE8E311_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_LOTHAN_H__DEE8E311_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

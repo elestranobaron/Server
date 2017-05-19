@@ -1,14 +1,3 @@
-// Static Model
-
-// 
-/////////////////////////////////////////////////////////////////////////////
-// FILE:    RootInstruction
-// PACKAGE: NPC_Editor
-//	Implements the following classes:
-//          RootInstruction
-//	Date:   November 08, 1900
-//	Author: FrancoisL
-/////////////////////////////////////////////////////////////////////////////
 #ifndef __RootInstruction__
 #define __RootInstruction__
 

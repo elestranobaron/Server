@@ -1,5 +1,3 @@
-// Implements the Contract pattern for C++
-
 #include <stdexcept>
 
 namespace vir{

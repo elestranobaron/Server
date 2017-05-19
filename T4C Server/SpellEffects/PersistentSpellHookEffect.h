@@ -1,9 +1,3 @@
-// PersistentSpellHookEffect.h: interface for the PersistentSpellHookEffect class.
-// The difference between this and the SpellHookEffect is that this one wont wear off 
-// when Characters die.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PERSISTENTSPELLHOOKEFFECT_H__38165725_1A5B_11D2_837D_00E02922FA40__INCLUDED_)
 #define AFX_PERSISTENTSPELLHOOKEFFECT_H__38165725_1A5B_11D2_837D_00E02922FA40__INCLUDED_
 

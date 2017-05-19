@@ -1,7 +1,3 @@
-// ChatterChannels.cpp: implementation of the ChatterChannels class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "ChatterChannels.h"

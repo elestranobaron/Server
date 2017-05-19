@@ -1,7 +1,3 @@
-// NPC.h: interface for the NPC class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_NPC_H__DEDFE6E3_3C9D_11D4_B5B3_00E0296B9056__INCLUDED_)
 #define AFX_NPC_H__DEDFE6E3_3C9D_11D4_B5B3_00E0296B9056__INCLUDED_
 

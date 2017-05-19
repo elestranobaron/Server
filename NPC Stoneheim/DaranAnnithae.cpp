@@ -265,7 +265,7 @@ IF(CheckGlobalFlag(__QUEST_DARAN_CERTIFICATE) == CheckFlag(__QUEST_DARAN_CERTIFI
 			INTL( 9300, " Let me know when you've got the \"components\".")
 		ENDCASE
 		OTHERWISE
-			PRIVATE_SYSTEM_MESSAGE(INTL( 9301, "[ERROR DL1.3] This text should not appear. If you see it, please report it to Vircom."))
+			PRIVATE_SYSTEM_MESSAGE(INTL( 9301, "[ERROR DL1.3] This text should not appear. If you see it, please report it to Rebirth."))
 	ENDSWITCH
 ELSEIF(CheckFlag(__QUEST_DARAN_CERTIFICATE) != 0)
 	RemFlag(__QUEST_DARAN_CERTIFICATE) //Defensive code.
@@ -343,7 +343,7 @@ IF(CheckGlobalFlag(__QUEST_DARAN_CERTIFICATE) == CheckFlag(__QUEST_DARAN_CERTIFI
 		OTHERWISE //Debug code.
 			Conversation
 			INTL( 8345, "Huh? Something's wrong, here...")
-			PRIVATE_SYSTEM_MESSAGE(INTL( 9312, "[ERROR DL1.4] This text should not appear. If you see it, please report it to Vircom."))
+			PRIVATE_SYSTEM_MESSAGE(INTL( 9312, "[ERROR DL1.4] This text should not appear. If you see it, please report it to Rebirth."))
 	ENDSWITCH
 ELSEIF(CheckFlag(__QUEST_DARAN_CERTIFICATE) != 0)
 	RemFlag(__QUEST_DARAN_CERTIFICATE) //Defensive code.

@@ -1,7 +1,3 @@
-// DestinyGem.h: interface for the DestinyGem class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DESTINYGEM_H__1CAB2F44_BDC8_11D1_AD90_00E029058623__INCLUDED_)
 #define AFX_DESTINYGEM_H__1CAB2F44_BDC8_11D1_AD90_00E029058623__INCLUDED_
 

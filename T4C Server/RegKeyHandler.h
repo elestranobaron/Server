@@ -1,7 +1,3 @@
-// RegKeyHandler.h: interface for the RegKeyHandler class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_REGKEYHANDLER_H__1B901DD3_FE30_11D0_88FB_00E029058623__INCLUDED_)
 #define AFX_REGKEYHANDLER_H__1B901DD3_FE30_11D0_88FB_00E029058623__INCLUDED_
 

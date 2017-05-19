@@ -1,7 +1,3 @@
-// SimpleMonster.cpp: implementation of the SimpleMonster class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "SimpleMonster.h"
 #include "StatModifierFlagsListing.h"

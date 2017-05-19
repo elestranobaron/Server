@@ -1,7 +1,3 @@
-// FlagAdding.h: interface for the FlagAdding class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_FLAGADDING_H__D3A55176_0F58_11D2_8362_00E02922FA40__INCLUDED_)
 #define AFX_FLAGADDING_H__D3A55176_0F58_11D2_8362_00E02922FA40__INCLUDED_
 

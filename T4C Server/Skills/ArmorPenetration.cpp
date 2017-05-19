@@ -1,6 +1,3 @@
-// ArmorPenetration.cpp: implementation of the ArmorPenetration class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "ArmorPenetration.h"
 
@@ -140,7 +137,7 @@ int ArmorPenetration::Func
          
          s_asBlow->Strike = dDam + dBoust;
          
-         if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER )
+         if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER)
          {
             CString csMessage;
             csMessage.Format( "dNewAC = %f", dNewAC );

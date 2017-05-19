@@ -1,6 +1,3 @@
-// Potions.cpp: implementation of the Potions class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "Potions.h"
 

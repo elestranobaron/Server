@@ -1,7 +1,3 @@
-// RecallDeathPos.h: interface for the RecallDeathPos class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_RECALLDEATHPOS_H__D01E756A_BF83_11D2_849B_00E02922FA40__INCLUDED_)
 #define AFX_RECALLDEATHPOS_H__D01E756A_BF83_11D2_849B_00E02922FA40__INCLUDED_
 

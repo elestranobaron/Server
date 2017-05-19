@@ -1,7 +1,3 @@
-// Unit.cpp: implementation of the Unit class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "Unit.h"

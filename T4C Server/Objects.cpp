@@ -1,10 +1,3 @@
-// Objects.cpp: implementation of the Objects class.
-//
-//  This file will handle objects, at least dynamic objects!
-//  Francois Leblanc 1997
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Objects.h"
 #include "TFC_MAIN.h"

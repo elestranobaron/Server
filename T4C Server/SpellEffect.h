@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: SpellEffect.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  25/6/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         25/6/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          Top class for handling spell effects. Purely virtual, effects must be conceived
-//      somewhere else.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
 #if !defined(AFX_SPELLEFFECT_H__65AF1060_0C35_11D2_835C_00E02922FA40__INCLUDED_)
 #define AFX_SPELLEFFECT_H__65AF1060_0C35_11D2_835C_00E02922FA40__INCLUDED_
 

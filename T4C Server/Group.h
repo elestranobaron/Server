@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: Group.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  27/4/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         27/4/1999       1.0       FL             Initial developpement
-//
-//      Description
-//          This class implements groups for group play features.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #if !defined(AFX_GROUP_H__2BEF7B41_FCC5_11D2_84F1_00E02922FA40__INCLUDED_)
 #define AFX_GROUP_H__2BEF7B41_FCC5_11D2_84F1_00E02922FA40__INCLUDED_
 

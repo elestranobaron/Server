@@ -1,9 +1,3 @@
-//////////////////////////////////////////
-//	API Class for logging procedures
-//	Copyright 1997 Vircom Inc.
-//	Benoit Martin
-//////////////////////////////////////////
-
 #ifndef __LOGGER_H_
 #define __LOGGER_H_
 

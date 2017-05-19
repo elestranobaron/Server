@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: ChatterChannels.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  26/4/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         26/4/1999       1.0       FL             Initial developpement
-//
-//      Description
-//          This is a class which handled chatter channels.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #if !defined(AFX_CHATTERCHANNELS_H__C1BE8A83_FBFB_11D2_84F0_00E02922FA40__INCLUDED_)
 #define AFX_CHATTERCHANNELS_H__C1BE8A83_FBFB_11D2_84F0_00E02922FA40__INCLUDED_
 

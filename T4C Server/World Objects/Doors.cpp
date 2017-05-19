@@ -1,7 +1,3 @@
-// Doors.cpp: implementation of the Doors class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "..\TFCException.h"
 #include "Doors.h"

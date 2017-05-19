@@ -1,6 +1,3 @@
-// AttrBoost.cpp: implementation of the AttrBoost class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "AttrBoost.h"
 #include "../tfc_main.h"

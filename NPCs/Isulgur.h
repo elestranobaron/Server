@@ -1,7 +1,3 @@
-// Isulgur.h: interface for the Isulgur class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ISULGUR_H__DEE8E304_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_ISULGUR_H__DEE8E304_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

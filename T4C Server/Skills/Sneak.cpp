@@ -1,7 +1,3 @@
-// Sneak.cpp: implementation of the Sneak class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #pragma hdrstop
 #include "stdafx.h"
 #include "Sneak.h"

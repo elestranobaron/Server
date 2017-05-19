@@ -1,6 +1,3 @@
-// Container.cpp: implementation of the Container class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "Container.h"
 #include "../IntlText.h"

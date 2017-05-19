@@ -1,6 +1,3 @@
-// DetectHidden.cpp: implementation of the DetectHidden class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "stdafx.h"
 #include "DetectHidden.h"

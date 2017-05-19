@@ -1,7 +1,3 @@
-// Capuchon.h: interface for the Capuchon class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CAPUCHON_H__CC45C3F3_1405_11D1_BCE7_00E029058623__INCLUDED_)
 #define AFX_CAPUCHON_H__CC45C3F3_1405_11D1_BCE7_00E029058623__INCLUDED_
 

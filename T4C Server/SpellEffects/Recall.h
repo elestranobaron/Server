@@ -1,7 +1,3 @@
-// Recall.h: interface for the Recall class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_RECALL_H__EEC5C7E8_287F_11D2_83B4_00E02922FA40__INCLUDED_)
 #define AFX_RECALL_H__EEC5C7E8_287F_11D2_83B4_00E02922FA40__INCLUDED_
 

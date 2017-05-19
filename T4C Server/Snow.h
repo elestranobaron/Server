@@ -1,7 +1,3 @@
-// Snow.h: interface for the Snow class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SNOW_H__230144D2_D30F_48F4_80A7_604F5898CD17__INCLUDED_)
 #define AFX_SNOW_H__230144D2_D30F_48F4_80A7_604F5898CD17__INCLUDED_
 

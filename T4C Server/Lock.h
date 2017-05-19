@@ -1,7 +1,3 @@
-// Lock.h: interface for the CLock class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #ifndef LOCK_H_CLASS_DEFINITION
 #define LOCK_H_CLASS_DEFINITION
 

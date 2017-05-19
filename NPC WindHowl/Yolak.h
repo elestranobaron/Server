@@ -1,7 +1,3 @@
-// Yolak.h: interface for the Yolak class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_YOLAK_H__6E349274_AFA2_11D1_AD6E_00E029058623__INCLUDED_)
 #define AFX_YOLAK_H__6E349274_AFA2_11D1_AD6E_00E029058623__INCLUDED_
 

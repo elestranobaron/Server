@@ -1,7 +1,3 @@
-// Character.h: interface for the Character class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CHARACTER_H__6EB985F4_D137_11D0_B543_C09D9B000000__INCLUDED_)
 #define AFX_CHARACTER_H__6EB985F4_D137_11D0_B543_C09D9B000000__INCLUDED_
 
@@ -34,7 +30,6 @@
 #include "Directions.h"
 #include "Unit.h"
 #include "Skills.h"
-#include "StaticFlags.h"
 #include "_item.h"
 #include "Group.h"
 #include <map>

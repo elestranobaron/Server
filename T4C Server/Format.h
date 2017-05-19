@@ -1,51 +1,7 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: Format.h
-//      Plateform: Any
-//      Creation:  18/2/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         18/2/1999       1.0       FL             Initial developpement
-//
-//      Description
-//          This file contains several classes that are used as wrappers over the 
-//      conventional sprintf functions. ASCII, unicode and TCHAR (Microsoft specific)
-//      versions of the class are listed here.
-//
-//      WARNING
-//          This class is *not* thread safe. Its instances are intended to be used as 
-//      stack-based objects (stacks are thread dependent). The objects cannot be copied, 
-//      passed to functions or instantiated on the heap.
-//
-//      USAGE
-//          Three classes are provided:
-//             TFormat   ASCII version
-//             TFormatW  Unicode version
-//             TFormatT  TCHAR version (Microsoft specific).
-//
-//          Use these classes as functors (refer to the knowledge base for information 
-//          about functors).
-//
-//          You can set the internal size of the formatting buffer using the template
-//          versions:
-//             Format < buffersize >
-//             FormatW< buffersize >
-//             FormatT< buffersize >
-//          Where 'buffersize' is the internal buffer size in bytes
-//          
-// ***                                                                                      ***
-//	*******************************************************************************************
-// ***                Copyright (c) 1997-1999 Vircom. All rights reserved.                  ***
-
 #ifndef FORMAT_H_DEFINITION
 #define FORMAT_H_DEFINITION
 
-// Vircom library namespace.
+
 namespace vir{
 
 // The class is a template, allowing compile-time knowledge of the sprintf buffer size.

@@ -1,7 +1,3 @@
-// WindHowl_Guard.h: interface for the WindHowl_Guard class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_WINDHOWL_GUARD_H__EE1E0188_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_WINDHOWL_GUARD_H__EE1E0188_878D_11D1_BDE9_00E029058623__INCLUDED_
 

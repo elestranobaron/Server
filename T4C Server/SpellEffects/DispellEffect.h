@@ -1,7 +1,3 @@
-// DispellEffect.h: interface for the DispellEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DISPELLEFFECT_H__0AB5FACB_A462_11D3_85C9_00E02922FA40__INCLUDED_)
 #define AFX_DISPELLEFFECT_H__0AB5FACB_A462_11D3_85C9_00E02922FA40__INCLUDED_
 

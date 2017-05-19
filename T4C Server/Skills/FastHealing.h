@@ -1,7 +1,3 @@
-// FastHealing.h: interface for the FastHealing class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_FASTHEALING_H__FBD80E7E_759F_11D2_8448_00E02922FA40__INCLUDED_)
 #define AFX_FASTHEALING_H__FBD80E7E_759F_11D2_8448_00E02922FA40__INCLUDED_
 

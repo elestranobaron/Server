@@ -1,7 +1,3 @@
-// DynamicFlags.h: interface for the DynamicFlags class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #ifndef DYNAMICFLAGS_H_CLASS_PROTOTYPE
 #define DYNAMICFLAGS_H_CLASS_PROTOTYPE
 

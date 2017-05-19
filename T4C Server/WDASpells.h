@@ -1,30 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: WDASpells.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  8/3/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         8/3/1999        1.0       FL             Initial developpement
-//
-//      Description
-//          This class is the placeholder for all spells. You only need to interface this class
-//
-//      WDASpells CONTAINS-MANY WDASpellEffects
-//                each WDASpellEffects CONTAINS-MANY WDASpellEffectsParameters.
-//      WDASpells CONTAINS-MANY WDASpellRequirements.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #if !defined(AFX_WDASPELLS_H__FFB498A7_D575_11D2_84B1_00E02922FA40__INCLUDED_)
 #define AFX_WDASPELLS_H__FFB498A7_D575_11D2_84B1_00E02922FA40__INCLUDED_
 

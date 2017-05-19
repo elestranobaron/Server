@@ -1,6 +1,3 @@
-// Here are listed all types of "blockinh"
-// Note: there can only be 16 types, so we'll use 0 :)
-
 #define __BLOCK_NONE					0
 #define __BLOCK_ABSOLUTE				1
 #define __BLOCK_CAN_FLY_OVER			2

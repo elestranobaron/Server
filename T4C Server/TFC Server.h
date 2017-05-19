@@ -1,5 +1,3 @@
-// TFC Server.h : main header file for the TFC SERVER application
-//
 #define __TFC_SERVER_EXE
 
 //#define CHANGE_THIS
@@ -47,7 +45,7 @@ void ReportLastError(void);
 #define CHARACTER_KEY       "Characters"
 #define CONTACT_KEY         "Contact"
 #define ORACLE_HEART_BEAT   "Oracle heart beat"
-#define CFG_BATTLE_MODE		"BattleMode" // DialSoft ADD for The Battle Mode
+#define CFG_BATTLE_MODE		"BattleMode"
 
 // BEGIN : Mestoph -> Anti SpeedHack
 //#define CHEAT_KEY			"CheatProtection"

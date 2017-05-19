@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: Hive.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  15/6/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         15/6/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          This class handles monster repopping. Using the Unit interface to instantiate
-//      larvae into the world.
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
 #if !defined(AFX_Hive_H__60753E28_0459_11D2_8341_00E02922FA40__INCLUDED_)
 #define AFX_Hive_H__60753E28_0459_11D2_8341_00E02922FA40__INCLUDED_
 

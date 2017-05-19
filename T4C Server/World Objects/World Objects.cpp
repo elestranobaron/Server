@@ -1,23 +1,3 @@
-// ************************************************************************
-// ***                                                                  ***
-//      File Name: World Objects.DLL
-//      Project:   Basic object file for TFC
-//      Creation:  August 3rd, 1997
-//      Author:    Francois Leblanc (FL)
-// ***                                                                  ***
-// ************************************************************************
-// ***                                                                  ***
-//      Change History
-//
-//         Date            Ver.	   Author	   Purpose
-//         08-03-1997      1.0     FL          Initial development
-//
-//      Description
-//				Provides a basic object event interpreter for TFC Server
-// ***                                                                  ***
-//	************************************************************************
-// *** Copyright (c) 1997-1998 Vritual Dreams (r). All rights reserved. ***
-
 #include "stdafx.h"
 #include "World Objects.h"
 

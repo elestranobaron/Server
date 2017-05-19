@@ -1,6 +1,3 @@
-// SpellListing.h, created by T4C Spell Maker
-// Lists all dynamically database loaded spells available
-
 #ifndef __SPELLLISTING_H
 #define __SPELLLISTING_H
 

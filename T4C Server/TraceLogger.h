@@ -1,25 +1,3 @@
-//	********************************************************************************************
-// ***                                                                                      ***
-//      File Name: TraceLogger.h
-//      Project:   Vircom Lib
-//      Creation:  29 January 1999
-//      Author:    Thomas (TH)
-// ***                                                                                      ***
-//	********************************************************************************************
-// ***                                                                                      ***
-//      Change History
-//
-//         Date            Ver.	  Author	     Purpose
-//         01-29-1999      1.0    TH             Initial development
-//         02-17-1999      1.0    FL             Changed namespace to 'vir'
-//
-//      Description
-//         Provide an Interface for loggin on the visual studio debug 
-//			  output.
-// ***                                                                                      ***
-//	********************************************************************************************
-// *** Copyright (c) 1998-1999 Vircom. All rights reserved.                                 ***
-
 #ifndef VIRCOMLIB_TRACER_TH083231012999
 #define VIRCOMLIB_TRACER_TH083231012999
 

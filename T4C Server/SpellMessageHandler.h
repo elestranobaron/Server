@@ -1,25 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: SpellMessageHandler.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  19/1/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         19/1/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          Provides message handling for spells. Also provides base class for spell making.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
 #if !defined(AFX_SPELLMESSAGEHANDLER_H__184E5E03_90FC_11D1_AD0B_00E029058623__INCLUDED_)
 #define AFX_SPELLMESSAGEHANDLER_H__184E5E03_90FC_11D1_AD0B_00E029058623__INCLUDED_
 

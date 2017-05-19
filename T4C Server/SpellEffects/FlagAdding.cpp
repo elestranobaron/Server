@@ -1,6 +1,3 @@
-// FlagAdding.cpp: implementation of the FlagAdding class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "..\NPCmacroScriptLng.h"
 #include "FlagAdding.h"

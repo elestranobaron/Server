@@ -1,7 +1,3 @@
-// PlayerManager.h: interface for the CPlayerManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PLAYERMANAGER_H__17AFD9C7_48B7_11D2_83F1_00E02922FA40__INCLUDED_)
 #define AFX_PLAYERMANAGER_H__17AFD9C7_48B7_11D2_83F1_00E02922FA40__INCLUDED_
 

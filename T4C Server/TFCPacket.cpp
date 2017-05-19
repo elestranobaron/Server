@@ -1,7 +1,3 @@
-// TFCPacket.cpp: implementation of the TFCPacket class.
-//
-//////////////////////////////////////////////////////////////////////
-
 //#include <windows.h>
 //#include <stdio.h>
 

@@ -1,7 +1,3 @@
-// Creatures.h: interface for the Creatures class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CREATURES_H__D16DFF13_F881_11D0_88E4_00E029058623__INCLUDED_)
 #define AFX_CREATURES_H__D16DFF13_F881_11D0_88E4_00E029058623__INCLUDED_
 

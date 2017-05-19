@@ -1,6 +1,3 @@
-// Peek.cpp: implementation of the Peek class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include <math.h>
 #include "../IntlText.h"

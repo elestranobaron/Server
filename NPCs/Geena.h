@@ -1,7 +1,3 @@
-// Geena.h: interface for the Geena class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_GEENA_H__53CB2376_AA4A_11D1_AD5F_00E029058623__INCLUDED_)
 #define AFX_GEENA_H__53CB2376_AA4A_11D1_AD5F_00E029058623__INCLUDED_
 

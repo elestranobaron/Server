@@ -1,6 +1,3 @@
-// DrainLife.cpp: implementation of the DrainLife class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "DrainLife.h"
 

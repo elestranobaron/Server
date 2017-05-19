@@ -1,6 +1,3 @@
-// DisarmTrap.cpp: implementation of the DisarmTrap class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "DisarmTrap.h"
 #include "..\_item.h"

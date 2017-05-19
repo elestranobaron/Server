@@ -1,7 +1,3 @@
-// GAME_RULES.h: interface for the GAME_RULES class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_GAME_RULES_H__4F604074_5613_11D1_BD7B_00E029058623__INCLUDED_)
 #define AFX_GAME_RULES_H__4F604074_5613_11D1_BD7B_00E029058623__INCLUDED_
 

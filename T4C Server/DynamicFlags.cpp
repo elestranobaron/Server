@@ -1,7 +1,3 @@
-// DynamicFlags.cpp: implementation of the DynamicFlags class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "DynamicFlags.h"
 #include <iterator>

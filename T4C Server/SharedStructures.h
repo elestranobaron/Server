@@ -1,5 +1,3 @@
-// Structures shared through the different DLL's and TFC Server
-
 #include <afx.h>
 
 #ifndef __SHAREDSTRUCTURES_H

@@ -1,7 +1,3 @@
-// KirlorDhul.h: interface for the KirlorDhul class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_KIRLORDHUL_H__82A36E43_3120_11D1_BD34_00E029058623__INCLUDED_)
 #define AFX_KIRLORDHUL_H__82A36E43_3120_11D1_BD34_00E029058623__INCLUDED_
 

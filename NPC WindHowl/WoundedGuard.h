@@ -1,7 +1,3 @@
-// WoundedGuard.h: interface for the WoundedGuard class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_WOUNDEDGUARD_H__EE1E0189_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_WOUNDEDGUARD_H__EE1E0189_878D_11D1_BDE9_00E029058623__INCLUDED_
 

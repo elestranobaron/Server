@@ -1,7 +1,3 @@
-// SysMsgEffect.cpp: implementation of the SysMsgEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "SysMsgEffect.h"
 

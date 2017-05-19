@@ -1,7 +1,3 @@
-// SamilAlgder.h: interface for the SamilAlgder class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SAMILALGDER_H__C944C5A7_86C5_11D1_BDE7_00E029058623__INCLUDED_)
 #define AFX_SAMILALGDER_H__C944C5A7_86C5_11D1_BDE7_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// PrincessDelilan.h: interface for the Princess Delilah class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCstructure.h"
 
 class PrincessDelilah : public NPCstructure  

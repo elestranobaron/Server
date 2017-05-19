@@ -1,11 +1,3 @@
-//	Filename: ODBCMage.h
-//	Author	: Guy Carbonneau
-//	Date	: 03.04.1998
-//
-//  This class is a homemade class it will be used for all kind of ODBC Access magic tricks
-//  that will be required from me.  It will start up as a test to be elaborated to a level beyond
-//  human capabilities... NOT. But it should have some neet functions hopefully.
-
 #ifndef _ODBCMAGE_H
 #define _ODBCMAGE_H
 

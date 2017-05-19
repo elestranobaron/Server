@@ -1,6 +1,3 @@
-// BishopCrowbanner.cpp: implementation of the BishopCrowbanner class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "BishopCrowbanner.h"
 

@@ -1,7 +1,3 @@
-// WorldMap.h: interface for the WorldMap class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_WORLDMAP_H__8F5DDC53_D5B8_11D0_B55C_00E029058623__INCLUDED_)
 #define AFX_WORLDMAP_H__8F5DDC53_D5B8_11D0_B55C_00E029058623__INCLUDED_
 

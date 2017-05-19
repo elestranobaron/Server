@@ -1,7 +1,3 @@
-// ArmorPenetration.h: interface for the ArmorPenetration class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ARMORPENETRATION_H__1E9CCE82_15AF_11D2_8374_00E02922FA40__INCLUDED_)
 #define AFX_ARMORPENETRATION_H__1E9CCE82_15AF_11D2_8374_00E02922FA40__INCLUDED_
 

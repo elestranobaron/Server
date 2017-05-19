@@ -1,5 +1,3 @@
-// this file lists all possible events
-
 #ifndef __EVENT_LISTING_H
 #define __EVENT_LISTING_H
 

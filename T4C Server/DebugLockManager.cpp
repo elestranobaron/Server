@@ -1,7 +1,3 @@
-// DebugLockManager.cpp: implementation of the DebugLockManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Lock.h"
 #include "RegKeyHandler.h"

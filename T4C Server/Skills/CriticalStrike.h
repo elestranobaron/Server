@@ -1,7 +1,3 @@
-// CriticalStrike.h: interface for the CriticalStrike class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CRITICALSTRIKE_H__7ADCA875_570C_11D1_BD7D_00E029058623__INCLUDED_)
 #define AFX_CRITICALSTRIKE_H__7ADCA875_570C_11D1_BD7D_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// WDASpellEffectParameters.cpp: implementation of the WDASpellEffectParameters class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDASpellEffectParameters.h"
 #include "Format.h"

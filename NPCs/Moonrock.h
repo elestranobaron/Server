@@ -1,7 +1,3 @@
-// Moonrock.h: interface for the Moonrock class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MOONROCK_H__DEE8E308_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_MOONROCK_H__DEE8E308_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

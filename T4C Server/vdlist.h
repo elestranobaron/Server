@@ -1,7 +1,3 @@
-// VDList.h: interface for the VDList class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_VDLIST_H__B5F32863_E0F7_11D0_A876_00E029058623__INCLUDED_)
 #define AFX_VDLIST_H__B5F32863_E0F7_11D0_A876_00E029058623__INCLUDED_
 

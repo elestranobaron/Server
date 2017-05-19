@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: WDATable.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  5/3/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         5/3/1999        1.0       FL             Initial developpement
-//
-//      Description
-//          Base abstract class for WDA tables.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #ifndef AFX_WDATABLE_H__8D88CCE9_D321_11D2_84AD_00E02922FA40__INCLUDED_
 #define AFX_WDATABLE_H__8D88CCE9_D321_11D2_84AD_00E02922FA40__INCLUDED_
 

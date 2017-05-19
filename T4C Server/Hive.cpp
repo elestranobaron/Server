@@ -1,7 +1,3 @@
-// Hive.cpp: implementation of the Hive class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "Hive.h"

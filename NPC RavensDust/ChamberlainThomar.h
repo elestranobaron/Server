@@ -1,7 +1,3 @@
-// ChamberlainThomar.h: interface for the ChamberlainThomar class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCstructure.h"
 
 class ChamberlainThomar : public NPCstructure  

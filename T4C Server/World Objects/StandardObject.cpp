@@ -1,7 +1,3 @@
-
-// StandardObject.cpp: implementation of the StandardObject class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "StandardObject.h"
 

@@ -1,7 +1,3 @@
-// AsyncFuncQueue.h: interface for the AsyncFuncQueue class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ASYNCFUNCQUEUE_H__EFFD7FAE_F0BA_11D1_830E_00104B2CA38F__INCLUDED_)
 #define AFX_ASYNCFUNCQUEUE_H__EFFD7FAE_F0BA_11D1_830E_00104B2CA38F__INCLUDED_
 

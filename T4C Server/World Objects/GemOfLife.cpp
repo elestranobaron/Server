@@ -1,6 +1,3 @@
-// GemOfLife.cpp: implementation of the GemOfLife class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "GemOfLife.h"
 

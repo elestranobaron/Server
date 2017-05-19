@@ -1,6 +1,3 @@
-// GenericSkill.cpp: implementation of the GenericSkill class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "GenericSkill.h"
 

@@ -1,6 +1,3 @@
-// Reynen_Aspicdart.cpp: implementation of the Reynen_Aspicdart class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "Reynen_Aspicdart.h"
 

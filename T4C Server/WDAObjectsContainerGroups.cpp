@@ -1,7 +1,3 @@
-// WDAObjectsContainerGroups.cpp: implementation of the WDAObjectsContainerGroups class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAObjectsContainerGroups.h"
 #include "Format.h"

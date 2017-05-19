@@ -1,7 +1,3 @@
-// TFC_MAIN.cpp: implementation of the TFC_MAIN class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "TFC_MAIN.h"
@@ -521,7 +517,7 @@ int TFCMAIN::Attack(Unit *Attacker, Unit *Target, bool &blockedPath )
                 if( Attacker->GetType() == U_PC ){
                     Players *lpPlayer = static_cast< Character *>( Attacker )->GetPlayer();
                     if( lpPlayer != NULL ){
-                        if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+                        if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
                             TFormat format;
                             Attacker->SendSystemMessage(
                                 format(
@@ -538,7 +534,7 @@ int TFCMAIN::Attack(Unit *Attacker, Unit *Target, bool &blockedPath )
                 if( Target->GetType() == U_PC ){
                     Players *lpPlayer = static_cast< Character *>( Target )->GetPlayer();
                     if( lpPlayer != NULL ){
-                        if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+                        if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
                             TFormat format;
                             Target->SendSystemMessage(
                                 format(

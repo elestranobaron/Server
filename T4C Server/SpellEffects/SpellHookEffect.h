@@ -1,7 +1,3 @@
-// SpellHookEffect.h: interface for the SpellHookEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SPELLHOOKEFFECT_H__38165725_1A5B_11D2_837C_00E02922FA40__INCLUDED_)
 #define AFX_SPELLHOOKEFFECT_H__38165725_1A5B_11D2_837C_00E02922FA40__INCLUDED_
 

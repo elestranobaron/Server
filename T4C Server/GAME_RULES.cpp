@@ -1,7 +1,3 @@
-// GAME_RULES.cpp: implementation of the GAME_RULES class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "GAME_RULES.h"

@@ -1,7 +1,3 @@
-// AreaSensitiveEffect.cpp: implementation of the AreaSensitiveEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "AreaSensitiveEffect.h"
 #include "TFCTimers.h"

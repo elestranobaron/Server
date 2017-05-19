@@ -1,6 +1,3 @@
-// MarnecSunim.cpp: implementation of the MarnecSunim class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "MarnecSunim.h"
 

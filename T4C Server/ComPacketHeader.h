@@ -1,4 +1,3 @@
-
 #ifndef NM_PACKET_HEADER_H
 #define NM_PACKET_HEADER_H
 

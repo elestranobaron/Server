@@ -1,7 +1,3 @@
-// ObjectTimer.h: interface for the ObjectTimer class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_OBJECTTIMER_H__14F0EB34_C327_11D1_AD9D_00E029058623__INCLUDED_)
 #define AFX_OBJECTTIMER_H__14F0EB34_C327_11D1_AD9D_00E029058623__INCLUDED_
 

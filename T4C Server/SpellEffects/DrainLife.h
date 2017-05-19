@@ -1,7 +1,3 @@
-// DrainLife.h: interface for the DrainLife class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DRAINLIFE_H__6C16ECCC_738F_11D2_8444_00E02922FA40__INCLUDED_)
 #define AFX_DRAINLIFE_H__6C16ECCC_738F_11D2_8444_00E02922FA40__INCLUDED_
 

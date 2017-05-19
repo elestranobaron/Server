@@ -1,7 +1,3 @@
-// DeadlockDetector.cpp: implementation of the CDeadlockDetector class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "DeadlockDetector.h"

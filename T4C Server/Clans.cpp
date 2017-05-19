@@ -1,7 +1,3 @@
-// Clans.cpp: implementation of the Clans class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "Clans.h"

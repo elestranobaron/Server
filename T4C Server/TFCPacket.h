@@ -1,15 +1,3 @@
-// TFCPacket.h: interface for the TFCPacket class.
-//
-// THIS CLASS HANDLES PACKETS!
-// That is, it includes functions to work with packets:
-// setup the header, add a number (char, int, long)
-// retreive a number (char, int, long) with Packet << value
-// or Packet >> value.
-//
-//
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TFCPACKET_H__CCD2D7A2_B380_11D0_9B9E_444553540000__INCLUDED_)
 #define AFX_TFCPACKET_H__CCD2D7A2_B380_11D0_9B9E_444553540000__INCLUDED_
 

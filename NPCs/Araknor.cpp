@@ -1,6 +1,3 @@
-// Araknor.cpp: implementation of the Araknor class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "Araknor.h"
 

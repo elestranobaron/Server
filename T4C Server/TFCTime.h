@@ -1,7 +1,3 @@
-// TFCTime.h: interface for the TFCTime class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TFCTIME_H__B1BEE9F4_4580_11D1_BD5F_00E029058623__INCLUDED_)
 #define AFX_TFCTIME_H__B1BEE9F4_4580_11D1_BD5F_00E029058623__INCLUDED_
 

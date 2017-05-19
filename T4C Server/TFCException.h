@@ -1,7 +1,3 @@
-// TFCException.h: interface for the TFCException class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TFCEXCEPTION_H__E5BFC953_31DF_11D1_BD35_00E029058623__INCLUDED_)
 #define AFX_TFCEXCEPTION_H__E5BFC953_31DF_11D1_BD35_00E029058623__INCLUDED_
 

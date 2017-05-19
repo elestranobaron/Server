@@ -1,7 +1,3 @@
-// Parry.h: interface for the Parry class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PARRY_H__99A66226_6209_11D1_BD94_00E029058623__INCLUDED_)
 #define AFX_PARRY_H__99A66226_6209_11D1_BD94_00E029058623__INCLUDED_
 

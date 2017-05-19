@@ -1,7 +1,3 @@
-// WDASpellRequirements.cpp: implementation of the WDASpellRequirements class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDASpellRequirements.h"
 #include "Format.h"

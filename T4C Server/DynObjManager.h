@@ -1,7 +1,3 @@
-// DynObjManager.h: interface for the DynObjManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DYNOBJMANAGER_H__10CA361D_EFE8_11D1_830E_00104B2CA38F__INCLUDED_)
 #define AFX_DYNOBJMANAGER_H__10CA361D_EFE8_11D1_830E_00104B2CA38F__INCLUDED_
 

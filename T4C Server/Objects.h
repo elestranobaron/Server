@@ -1,7 +1,3 @@
-// Objects.h: interface for the Objects class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_OBJECTS_H__ED5A8764_A9CC_11D0_9B9E_444553540000__INCLUDED_)
 #define AFX_OBJECTS_H__ED5A8764_A9CC_11D0_9B9E_444553540000__INCLUDED_
 

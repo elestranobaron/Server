@@ -1,4 +1,3 @@
-// ATTACK!!!!
 #ifdef __TFC_SERVER_EXE
 	#include "Broadcast.h"
 	#include "SharedStructures.h"

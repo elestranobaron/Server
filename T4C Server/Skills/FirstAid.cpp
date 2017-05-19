@@ -1,6 +1,3 @@
-// FirstAid.cpp: implementation of the FirstAid class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "FirstAid.h"
 #include "../format.h"

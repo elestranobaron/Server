@@ -1,7 +1,3 @@
-// SimpleNPC.cpp: implementation of the SimpleNPC class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "SimpleNPC.h"

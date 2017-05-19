@@ -1,7 +1,3 @@
-// BoostFormula.h: interface for the BoostFormula class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_BOOSTFORMULA_H__67C507F8_166F_11D2_8376_00E02922FA40__INCLUDED_)
 #define AFX_BOOSTFORMULA_H__67C507F8_166F_11D2_8376_00E02922FA40__INCLUDED_
 

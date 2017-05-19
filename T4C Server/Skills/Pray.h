@@ -1,7 +1,3 @@
-// Pray.h: interface for the Pray class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PRAY_H__311E6BD4_62A0_11D1_BD96_00E029058623__INCLUDED_)
 #define AFX_PRAY_H__311E6BD4_62A0_11D1_BD96_00E029058623__INCLUDED_
 

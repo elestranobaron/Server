@@ -1,7 +1,3 @@
-// SpellEffectManager.h: interface for the SpellEffectManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SPELLEFFECTMANAGER_H__65AF1061_0C35_11D2_835C_00E02922FA40__INCLUDED_)
 #define AFX_SPELLEFFECTMANAGER_H__65AF1061_0C35_11D2_835C_00E02922FA40__INCLUDED_
 

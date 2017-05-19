@@ -1,6 +1,3 @@
-// HumanDrunk.cpp: implementation of the HumanDrunk class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "HumanDrunk.h"
 

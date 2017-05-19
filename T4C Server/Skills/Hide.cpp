@@ -1,6 +1,3 @@
-// Hide.cpp: implementation of the Hide class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "stdafx.h"
 #include "Hide.h"

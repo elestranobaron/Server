@@ -1513,7 +1513,6 @@ copy /Y "$(SolutionDir)Server$(Configuration)\$(TargetFileName)" "$(SolutionDir)
     <ClInclude Include="SpellListing.h" />
     <ClInclude Include="SpellMessageHandler.h" />
     <ClInclude Include="stackhlp.h" />
-    <ClInclude Include="StaticFlags.h" />
     <ClInclude Include="StatModifierFlagsListing.h" />
     <ClInclude Include="StdAfx.h" />
     <ClInclude Include="stringhlp.h" />
@@ -1524,7 +1523,6 @@ copy /Y "$(SolutionDir)Server$(Configuration)\$(TargetFileName)" "$(SolutionDir)
     <ClInclude Include="TextFilter.h" />
     <ClInclude Include="TFC Server.h" />
     <ClInclude Include="TFC ServerDlg.h" />
-    <ClInclude Include="TFC World.h" />
     <ClInclude Include="TFCException.h" />
     <ClInclude Include="TFCInit.h" />
     <ClInclude Include="TFCMessagesHandler.h" />
@@ -1598,14 +1596,6 @@ copy /Y "$(SolutionDir)Server$(Configuration)\$(TargetFileName)" "$(SolutionDir)
   </ItemGroup>
   <ItemGroup>
     <None Include="res\TFC Server.rc2" />
-    <None Include="T4C_ENG.LNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="LicenseeRelease.txt" />
-    <Text Include="PlayerRelease.txt" />
-    <Text Include="QueryItemInfo specification.txt" />
-    <Text Include="ReadMe.txt" />
-    <Text Include="Server TODO.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,3 @@
-// WDAFile.cpp: implementation of the WDAFile class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include <algorithm>
 #include "WDAFile.h"

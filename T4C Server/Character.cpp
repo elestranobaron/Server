@@ -1,7 +1,3 @@
-// Character.cpp: implementation of the Character class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Character.h"
 #include "random.h"
@@ -8804,7 +8800,7 @@ void DealArrowDamage
     if( self->GetType() == U_PC ){
         Players *lpPlayer = static_cast< Character *>( self )->GetPlayer();
         if( lpPlayer != NULL ){
-            if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+            if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
                 TFormat format;
                 self->SendSystemMessage(
                     format(
@@ -8822,7 +8818,7 @@ void DealArrowDamage
     if( target->GetType() == U_PC ){
         Players *lpPlayer = static_cast< Character *>( target )->GetPlayer();
         if( lpPlayer != NULL ){
-            if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER ){
+            if( lpPlayer->GetGodFlags() & GOD_DEVELOPPER){
                 TFormat format;
                 target->SendSystemMessage(
                     format(
@@ -8993,7 +8989,7 @@ void Character::RangeAttack
             DealExhaust( weaponData->weapon.cDealtExhaust.GetBoost( this ), 0, 0 );
             
             Players *pl = reinterpret_cast< Players * >( GetPlayer() );
-            if( pl->GetGodFlags() & GOD_DEVELOPPER ){
+            if( pl->GetGodFlags() & GOD_DEVELOPPER){
                 SendSystemMessage( "Arrow hit something which is not a unit." );
             }
             // If the quiver doesn't have infinite ammo

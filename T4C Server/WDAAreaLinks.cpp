@@ -1,7 +1,3 @@
-// WDAAreaLinks.cpp: implementation of the WDAAreaLinks class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAAreaLinks.h"
 #include "Format.h"

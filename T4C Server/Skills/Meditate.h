@@ -1,7 +1,3 @@
-// Meditate.h: interface for the Meditate class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MEDITATE_H__99A66227_6209_11D1_BD94_00E029058623__INCLUDED_)
 #define AFX_MEDITATE_H__99A66227_6209_11D1_BD94_00E029058623__INCLUDED_
 

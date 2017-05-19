@@ -1,8 +1,3 @@
-/***************************************************************************
- * Exception Filter Class - Header			                               *
- * Benoit Martin                                                           *
- * Copyright (C) 1997, Vircom Inc.										   *
- ***************************************************************************/
 #ifndef __EXPFLTR_H_
 #define __EXPFLTR_H_
 

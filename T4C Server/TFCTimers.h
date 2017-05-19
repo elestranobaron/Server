@@ -1,7 +1,3 @@
-// TFCTimers.h: interface for the TFCTimers class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TFCTIMERS_H__3E772E33_3D1A_11D1_BD4E_00E029058623__INCLUDED_)
 #define AFX_TFCTIMERS_H__3E772E33_3D1A_11D1_BD4E_00E029058623__INCLUDED_
 

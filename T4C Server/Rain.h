@@ -1,7 +1,3 @@
-// Rain.h: interface for the Rain class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_RAIN_H__157E11BF_F932_4E24_807D_63F1A1FF6E03__INCLUDED_)
 #define AFX_RAIN_H__157E11BF_F932_4E24_807D_63F1A1FF6E03__INCLUDED_
 

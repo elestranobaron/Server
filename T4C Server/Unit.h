@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: Unit.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  15/1/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         ??/??/1997      1.0       FL             Initial developpement
-//
-//      Description
-//          Provides a common structure for all unit (objects, NPCs and PCs). Specific
-//      behaviors are derived in Creatures and Objects.
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
 #pragma warning( disable : 4786 )
 
 #if !defined(AFX_UNIT_H__7F4A9E93_0C24_11D1_BCD5_00E029058623__INCLUDED_)

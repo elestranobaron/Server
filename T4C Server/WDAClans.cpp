@@ -1,7 +1,3 @@
-// WDAClans.cpp: implementation of the WDAClans class.
-//
-//////////////////////////////////////////////////////////////////////
-
 //#include <afx.h>
 #include "stdafx.h"
 #include "WDAClans.h"

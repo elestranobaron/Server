@@ -1,9 +1,3 @@
-// Players.h: interface for the Players class.
-//
-// This file handles players, will probably hold structures
-// for the "player flags" ie: quest flags.
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PLAYERS_H__C2AF9A46_AC25_11D0_9B9E_444553540000__INCLUDED_)
 #define AFX_PLAYERS_H__C2AF9A46_AC25_11D0_9B9E_444553540000__INCLUDED_
 

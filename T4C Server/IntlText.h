@@ -1,7 +1,3 @@
-// IntlText.h: interface for the IntlText class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_INTLTEXT_H__46FDF684_11B4_11D2_836E_00E02922FA40__INCLUDED_)
 #define AFX_INTLTEXT_H__46FDF684_11B4_11D2_836E_00E02922FA40__INCLUDED_
 

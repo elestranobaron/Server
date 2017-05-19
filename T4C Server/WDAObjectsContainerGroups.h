@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: WDAObjectsContainerGroups.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  9/3/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         9/3/1999        1.0       FL             Initial developpement
-//
-//      Description
-//          This class shouldn't be inferfaced directly. Use WDAObjects to interface objects.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #if !defined(AFX_WDAOBJECTSCONTAINERGROUPS_H__FECB9F39_D648_11D2_84B2_00E02922FA40__INCLUDED_)
 #define AFX_WDAOBJECTSCONTAINERGROUPS_H__FECB9F39_D648_11D2_84B2_00E02922FA40__INCLUDED_
 

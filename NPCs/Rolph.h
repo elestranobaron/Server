@@ -1,7 +1,3 @@
-// Rolph.h: interface for the Rolph class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ROLPH_H__DEE8E307_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_ROLPH_H__DEE8E307_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

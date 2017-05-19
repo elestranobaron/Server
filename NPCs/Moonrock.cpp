@@ -1,6 +1,3 @@
-// Moonrock.cpp: implementation of the Moonrock class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "Moonrock.h"
 

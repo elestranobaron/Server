@@ -1,11 +1,3 @@
-/******************************************************************************
- *
- * file: Guilds.h
- * description: Guild specifications for The 4th Coming
- * author: Desboys
- * 
- *****************************************************************************/
-
 #ifndef __GUILDS_H__
 #define __GUILDS_H__
 #include <string>

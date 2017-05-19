@@ -1,4 +1,3 @@
-
 #ifndef __Top_Package____NPC_Editor__
 #define __Top_Package____NPC_Editor__
 

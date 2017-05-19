@@ -1,7 +1,3 @@
-// Karl.h: interface for the Karl class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_KARL_H__C944C5AD_86C5_11D1_BDE7_00E029058623__INCLUDED_)
 #define AFX_KARL_H__C944C5AD_86C5_11D1_BDE7_00E029058623__INCLUDED_
 

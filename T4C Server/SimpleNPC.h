@@ -1,7 +1,3 @@
-// SimpleNPC.h: interface for the SimpleNPC class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SIMPLENPC_H__AD5E35C3_4C46_11D4_B5C9_00E0296B9056__INCLUDED_)
 #define AFX_SIMPLENPC_H__AD5E35C3_4C46_11D4_B5C9_00E0296B9056__INCLUDED_
 

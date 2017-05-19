@@ -1,7 +1,3 @@
-// AreaSensitiveEffect.h: interface for the AreaSensitiveEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_AREASENSITIVEEFFECT_H__E7C519C3_DE6D_11D0_A876_00E029058623__INCLUDED_)
 #define AFX_AREASENSITIVEEFFECT_H__E7C519C3_DE6D_11D0_A876_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// Clans.h: interface for the Clans class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CLANS_H__A7D17DE3_1349_11D1_BCE6_00E029058623__INCLUDED_)
 #define AFX_CLANS_H__A7D17DE3_1349_11D1_BCE6_00E029058623__INCLUDED_
 

@@ -1,18 +1,3 @@
-//	Filename: ODBCMage.c
-//	Author	: Guy Carbonneau
-//	Date	: 03.04.1998
-//
-//  Core of the class ODBC Mage.
-////////////////////////////////
-//  Secondary author : Francois Leblanc
-//  Date : 21.04.1998
-//
-//  Modification to ODBC Mage class, 
-//  Added functionnalities to fetch and set row data.
-//  Added batch thread request functionnalities.
-
-
-//  must include when working with MFC
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "ODBCMage.h"
@@ -22,9 +7,9 @@
 #include "RegKeyHandler.h"
 #include "DebugLogger.h"
 #include "format.h"
-// BEGIN : Mestoph -> Remove Vircom Mail
+
 //#include "EasyMail.h"
-// END : Mestoph -> Remove Vircom Mail
+
 #include "Shutdown.h"
 #include <string>
 #include "ODBCTrace.h"
@@ -69,20 +54,20 @@ void cODBCMage::CheckDisconnectError( void ){
                 "T4C was shutdown because the ODBC connection is down."
             LOG_
 
-			/* BEGIN : Mestoph -> Remove Vircom Mail
-	        CString sender( "tech@the4thcoming.com" );
-            CString subject( "[T4C CRASH][SQL CONNECTION ERROR]" );
-			END : Mestoph -> Remove Vircom Mail */
+
+	        /* CString sender( "tech@the4thcoming.com" );
+            CString subject( "[T4C CRASH][SQL CONNECTION ERROR]" ); */
+
             CString body;
 
             body.Format(
-				/* BEGIN : Mestoph -> Remove Vircom Mail
+				/* BEGIN : Mestoph -> Remove Mail
                 "<This is an automated message from T4C Server of %s>"
                 "\r\nYou can reply directly to this message if you need support about this item."
                 "\r\n"
                 "\r\nT4C was unable to establish a connection with the character database." */
                 "T4C was unable to establish a connection with the character database."
-				// END : Mestoph -> Remove Vircom Mail
+				// END : Mestoph -> Remove Mail
                 "\r\nThe server cannot run without a character database and has therefore"
                 "\r\nbeen shutdown for a minimum period of 5 minutes."
                 "\r\n"
@@ -98,13 +83,13 @@ void cODBCMage::CheckDisconnectError( void ){
                 lpbErrorMsg
             );
 
-            /* BEGIN : Mestoph -> Remove Vircom Mail
+            /* BEGIN : Mestoph -> Remove Mail
 			_LOG_DEBUG
                 LOG_CRIT_ERRORS,
                 "Copy of email sent to %s:",
                 (LPCTSTR)theApp.sContact.csAdminEmail            
             LOG_
-			END : Mestoph -> Remove Vircom Mail */
+			END : Mestoph -> Remove Mail */
             _LOG_DEBUG
                 LOG_CRIT_ERRORS,
                 (LPCTSTR)body

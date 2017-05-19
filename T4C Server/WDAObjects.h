@@ -1,35 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: WDAObjects.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  9/3/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         9/3/1999        1.0       FL             Initial developpement
-//
-//      Description
-//          This class is responsible for handling everything that has something to do
-// with items (objects). You should only interface this class.
-//
-//  Object containment hierachy.
-//  
-//  WDAObjects CONTAINS-MANY WDAObjectsAttrBoosts
-//  WDAObjects CONTAINS-MANY WDAObjectsContainerGroups
-//             each WDAObjectsContainerGroups CONTAINS-MANY WDAObjectsContainerItems
-//  WDAObjects CONTAINS-MANY WDAObjectsSpells.
-//  WDAObjects CONTAINS-MANY WDAObjectsWorldObjects.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #if !defined(AFX_WDAOBJECTS_H__FECB9F3C_D648_11D2_84B2_00E02922FA40__INCLUDED_)
 #define AFX_WDAOBJECTS_H__FECB9F3C_D648_11D2_84B2_00E02922FA40__INCLUDED_
 

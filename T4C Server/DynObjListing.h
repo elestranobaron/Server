@@ -1,6 +1,3 @@
-// DynObjListing.h, created by T4C Item Editor
-// Lists all dynamically database loaded objects available
-
 #ifndef __DYNOBJLISTING_H
 #define __DYNOBJLISTING_H
 

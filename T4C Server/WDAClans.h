@@ -1,7 +1,3 @@
-// WDAClans.h: interface for the WDAClans class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_WDACLANS_H__FFB498A6_D575_11D2_84B1_00E02922FA40__INCLUDED_)
 #define AFX_WDACLANS_H__FFB498A6_D575_11D2_84B1_00E02922FA40__INCLUDED_
 

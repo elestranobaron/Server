@@ -1,7 +1,3 @@
-// TtayhMark.h: interface for the TtayhMark class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TTAYHMARK_H__EE1E0190_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_TTAYHMARK_H__EE1E0190_878D_11D1_BDE9_00E029058623__INCLUDED_
 

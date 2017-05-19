@@ -1,7 +1,3 @@
-// DetectHidden.h: interface for the DetectHidden class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DETECTHIDDEN_H__58ED3D02_B49F_11D3_85E0_00E02922FA40__INCLUDED_)
 #define AFX_DETECTHIDDEN_H__58ED3D02_B49F_11D3_85E0_00E02922FA40__INCLUDED_
 

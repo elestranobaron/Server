@@ -1,27 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: AutoConfig.h
-//      Project:   T4C Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  7/10/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         7/10/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          This class handles run-time configuration changes. It checks changes made to
-//      the server's configuration registry key and applies them to supplied variables.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
 #if !defined(AFX_AUTOCONFIG_H__7EE5E236_5DF5_11D2_8425_00E02922FA40__INCLUDED_)
 #define AFX_AUTOCONFIG_H__7EE5E236_5DF5_11D2_8425_00E02922FA40__INCLUDED_
 

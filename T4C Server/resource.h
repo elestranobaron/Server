@@ -1,7 +1,3 @@
-//{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
-// Used by TFC Server.rc
-//
 #define IDD_TFCINIT_DIALOG              101
 #define IDD_TFCMAIN_DIALOG              102
 #define IDP_SOCKETS_INIT_FAILED         103

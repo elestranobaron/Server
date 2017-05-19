@@ -1,7 +1,3 @@
-// CommCenter.cpp: implementation of the CCommCenter class.
-//
-//////////////////////////////////////////////////////////////////////
-
 //si non definie USE_CLIENT_CONNECTION
     #include "stdafx.h"
 //else

@@ -1,6 +1,3 @@
-// SpellHookEffect.cpp: implementation of the SpellHookEffect class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "SpellHookEffect.h"
 #include "../SpellMessageHandler.h"

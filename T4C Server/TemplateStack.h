@@ -1,24 +1,3 @@
-// ************************************************************************
-// ***                                                                  ***
-//      File Name: TemplateStack.h
-//      Project:   Virtual Dreams Library
-//      Creation:  August 2nd 1997
-//      Author:    Francois Leblanc (FL)
-//				   based on TemplateList by Benoit Thomas
-// ***                                                                  ***
-// ************************************************************************
-// ***                                                                  ***
-//      Change History
-//
-//         Date            Ver.	   Author	   Purpose
-//         08-02-1997      1.0     FL          Initial development
-//
-//      Description
-//				Provide Template stacks.
-// ***                                                                  ***
-//	************************************************************************
-// *** Copyright (c) 1997-1998 Vritual Dreams (r). All rights reserved. ***
-
 #if !defined(AFX_TEMPLATESTACK_H__B5F32863_E0F7_11D0_A876_00E029058623__INCLUDED_)
 #define AFX_TEMPLATESTACK_H__B5F32863_E0F7_11D0_A876_00E029058623__INCLUDED_
 

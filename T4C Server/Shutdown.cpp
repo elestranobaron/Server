@@ -1,7 +1,3 @@
-// Shutdown.cpp: implementation of the CShutdown class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "Shutdown.h"

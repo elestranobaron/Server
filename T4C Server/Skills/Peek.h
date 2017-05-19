@@ -1,7 +1,3 @@
-// Peek.h: interface for the Peek class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_PEEK_H__CB86BB9A_74D6_11D2_8447_00E02922FA40__INCLUDED_)
 #define AFX_PEEK_H__CB86BB9A_74D6_11D2_8447_00E02922FA40__INCLUDED_
 

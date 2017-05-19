@@ -1,25 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: World Objects.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  17/1/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         17/1/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          Defines all that is to be defined for world objects
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
 #include "..\Unit.h"
 #include "..\ObjectListing.h" // Header file that contains all object ID's
 #include "..\TFC_MAIN.h"

@@ -1,28 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: Shutdown.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  11/11/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         11/11/1998      1.0       FL             Initial developpement
-//
-//      Description
-//          This class gracefully shuts down the server. Called whenever the server is
-//      shutdown normally, through a scheduled event, an online issued shutdown command
-//      or by receiving a WM_CLOSE message.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
 #if !defined(AFX_SHUTDOWN_H__5287585B_799D_11D2_844C_00E02922FA40__INCLUDED_)
 #define AFX_SHUTDOWN_H__5287585B_799D_11D2_844C_00E02922FA40__INCLUDED_
 

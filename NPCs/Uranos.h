@@ -1,7 +1,3 @@
-// Uranos.h: interface for the Uranos class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_URANOS_H__DEE8E30E_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_URANOS_H__DEE8E30E_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

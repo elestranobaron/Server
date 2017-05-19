@@ -1,13 +1,3 @@
-// Reorganized by Mestoph 07/09/2008
-/***************************************************************************
- * Exception Filter Class				                                   *
- * Benoit Martin                                                           *
- * Copyright (C) 1997, Vircom Inc.										   *
- ***************************************************************************/
-
-// THIS CLASS MUST BE THREAD SAFE!!!
-// DO NOT FORGET TO INCLUDE "imagehlp.lib" in your LINK libraries..
-
 #include "stdafx.h"
 #include <windows.h>
 #include <tchar.h>

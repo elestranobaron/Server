@@ -1,7 +1,3 @@
-// EvadeView.h: interface for the EvadeView class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_EVADEVIEW_H__8D5D4C14_C425_11D1_ADA2_00E029058623__INCLUDED_)
 #define AFX_EVADEVIEW_H__8D5D4C14_C425_11D1_ADA2_00E029058623__INCLUDED_
 

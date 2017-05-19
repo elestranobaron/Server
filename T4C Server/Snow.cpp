@@ -1,9 +1,3 @@
-// Snow.cpp: implementation of the Snow class.
-// By:       Destiny for Dialsoft
-// Date:     01/04/2007
-// Purpose:  Snow system & client / server communication
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Snow.h"
 #include "Broadcast.h"

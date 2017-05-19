@@ -1,7 +1,3 @@
-// SpellEffectManager.cpp: implementation of the SpellEffectManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "SpellEffectManager.h"

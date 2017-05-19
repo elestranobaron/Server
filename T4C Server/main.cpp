@@ -1,6 +1,3 @@
-// TFC Server.cpp : Defines the class behaviors for the application.
-//
-  
 #include "stdafx.h"
 #include <conio.h>
 //#include <smrtheap.h>
@@ -1042,7 +1039,7 @@ int main(int argc,char **argv)
                         extraFileList.push_back( heavyDbg.c_str() );
                         extraFileList.push_back( exitLog.c_str() );
 
-                        // Send email to Vircom.
+
                         EasyMail()(
                             "smtp.vircom.com", 
                             (LPCTSTR)theApp.sContact.csAdminEmail,

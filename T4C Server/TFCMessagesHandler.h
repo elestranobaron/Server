@@ -1,27 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: TFCMessagesHandler.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  14/1/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         14/1/1998       1.0       FL             Initial developpement
-//
-//      Description
-//          Provides a jump table for the packet messages functions. The dispatcher
-//	verifies which function should interpret a specific message and then calls it.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
 #if !defined(AFX_TFCMESSAGESHANDLER_H__01C599A4_8D10_11D1_BDF5_00E029058623__INCLUDED_)
 #define AFX_TFCMESSAGESHANDLER_H__01C599A4_8D10_11D1_BDF5_00E029058623__INCLUDED_
 

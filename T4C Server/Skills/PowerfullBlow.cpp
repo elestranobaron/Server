@@ -1,6 +1,3 @@
-// PowerfullBlow.cpp: implementation of the PowerfullBlow class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "PowerfullBlow.h"
 
@@ -61,7 +58,7 @@ Unit *self,					// Unit attacking
 		  double rand   = rnd.roll( dice( 1, 33 ) );
          s_asBlow->Strike *= 133;
          s_asBlow->Strike /= 100;
-		  if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER )
+		  if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER)
 		  {
 				CString csMessage;
 		 		csMessage.Format( "[\"Powerfull\" \"Blow\"] increased damages. (Old: %lf, New: %lf (+%lf%))", oldDmg, s_asBlow->Strike, rand );

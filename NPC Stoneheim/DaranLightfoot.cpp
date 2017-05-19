@@ -328,7 +328,7 @@ IF(CheckGlobalFlag(__QUEST_DARAN_CERTIFICATE) == 0) //Daran's ready to start the
 		OTHERWISE //Debug code.
 			Conversation
 			INTL( 8345, "Huh? Something's wrong, here...")
-			PRIVATE_SYSTEM_MESSAGE(INTL( 8346, "[ERROR DL1.1] This text should not appear. If you see it, please report it to Vircom."))
+			PRIVATE_SYSTEM_MESSAGE(INTL( 8346, "[ERROR DL1.1] This text should not appear. If you see it, please report it to Rebirth."))
 	ENDSWITCH
 ELSEIF(CheckFlag(__QUEST_DARAN_CERTIFICATE) != 0)
 	RemFlag(__QUEST_DARAN_CERTIFICATE) //Defensive code.
@@ -380,7 +380,7 @@ IF(CheckGlobalFlag(__QUEST_DARAN_CERTIFICATE) == 0) //Daran's ready to start the
 		OTHERWISE //Debug code.
 			Conversation
 			INTL( 8345, "Huh? Something's wrong, here...")
-			PRIVATE_SYSTEM_MESSAGE(INTL( 8353, "[ERROR DL1.2] This text should not appear. If you see it, please report it to Vircom."))
+			PRIVATE_SYSTEM_MESSAGE(INTL( 8353, "[ERROR DL1.2] This text should not appear. If you see it, please report it to Rebirth."))
 	ENDSWITCH
 ELSEIF(CheckFlag(__QUEST_DARAN_CERTIFICATE) != 0)
 	RemFlag(__QUEST_DARAN_CERTIFICATE) //Defensive code.

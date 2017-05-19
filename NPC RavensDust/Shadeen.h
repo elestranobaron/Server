@@ -1,7 +1,3 @@
-// Shadeen.h: interface for the Shadeen class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCStructure.h"
 
 #ifndef __SHADEEN_H

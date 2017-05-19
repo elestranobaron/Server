@@ -933,9 +933,6 @@
     <ClInclude Include="stackhlp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="StaticFlags.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="StatModifierFlagsListing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -964,9 +961,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TFC ServerDlg.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="TFC World.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TFC_MAIN.h">
@@ -1372,15 +1366,5 @@
     <None Include="res\TFC Server.rc2">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="T4C_ENG.LNG" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="QueryItemInfo specification.txt">
-      <Filter>Documentation\Network Protocol</Filter>
-    </Text>
-    <Text Include="LicenseeRelease.txt" />
-    <Text Include="PlayerRelease.txt" />
-    <Text Include="ReadMe.txt" />
-    <Text Include="Server TODO.txt" />
   </ItemGroup>
 </Project>

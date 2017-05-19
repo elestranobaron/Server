@@ -1,7 +1,3 @@
-// Kalastor.h: interface for the Kalastor class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_KALASTOR_H__DEE8E316_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_KALASTOR_H__DEE8E316_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

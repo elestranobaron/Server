@@ -1,29 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: WDASpellEffects.h
-//      Project:   T4C Server
-//      Plateform: Windows NT
-//      Creation:  8/3/1999
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         8/3/1999        1.0       FL             Initial developpement
-//
-//      Description
-//          You CANNOT reference this class. WDASpellEffects is contained and used by WDASpells
-//      only.
-//
-//      WDASpellEffects CONTAINS-MANY WDASpellEffectsParameters.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***             Copyright (c) 1997-1999 Vircom inc. All rights reserved.                ***
-
-
 #if !defined(AFX_WDASPELLEFFECTS_H__FFB498A8_D575_11D2_84B1_00E02922FA40__INCLUDED_)
 #define AFX_WDASPELLEFFECTS_H__FFB498A8_D575_11D2_84B1_00E02922FA40__INCLUDED_
 

@@ -1,7 +1,3 @@
-// WDAObjectsSpells.cpp: implementation of the WDAObjectsSpells class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAObjectsSpells.h"
 #include "Format.h"

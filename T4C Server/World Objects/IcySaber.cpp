@@ -1,6 +1,3 @@
-// IcySaber.cpp: implementation of the IcySaber class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "IcySaber.h"
 

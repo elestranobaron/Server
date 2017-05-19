@@ -1,7 +1,3 @@
-// MainConsole.h: interface for the MainConsole class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MAINCONSOLE_H__056C8101_0631_11D3_84FA_00E02922FA40__INCLUDED_)
 #define AFX_MAINCONSOLE_H__056C8101_0631_11D3_84FA_00E02922FA40__INCLUDED_
 

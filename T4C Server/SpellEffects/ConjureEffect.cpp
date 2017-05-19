@@ -1,6 +1,3 @@
-// ConjureEffect.cpp: implementation of the ConjureEffect class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "ConjureEffect.h"
 #include "../Objects.h"

@@ -1,7 +1,3 @@
-// WDAObjectsAttrBoosts.cpp: implementation of the WDAObjectsAttrBoosts class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAObjectsAttrBoosts.h"
 #include "Format.h"

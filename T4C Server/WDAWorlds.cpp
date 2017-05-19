@@ -1,7 +1,3 @@
-// WDAWorlds.cpp: implementation of the WDAWorlds class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAWorlds.h"
 #include "Format.h"

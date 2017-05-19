@@ -1,5 +1,3 @@
-// Set of general definitions.
-
 #ifndef DEFINE_GEN_REF
 #define DEFINE_GEN_REF
 

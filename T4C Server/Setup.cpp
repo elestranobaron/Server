@@ -1,7 +1,3 @@
-// CSetup.cpp: implementation of the CSetup class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Setup.h"
 

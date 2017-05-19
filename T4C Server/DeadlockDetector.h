@@ -1,7 +1,3 @@
-// DeadlockDetector.h: interface for the CDeadlockDetector class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_DEADLOCKDETECTOR_H__67CBC00E_52F9_11D2_83FE_00E02922FA40__INCLUDED_)
 #define AFX_DEADLOCKDETECTOR_H__67CBC00E_52F9_11D2_83FE_00E02922FA40__INCLUDED_
 

@@ -1,7 +1,3 @@
-// IroualKnowall.h: interface for the IroualKnowall class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_IROUALKNOWALL_H__EE1E0195_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_IROUALKNOWALL_H__EE1E0195_878D_11D1_BDE9_00E029058623__INCLUDED_
 

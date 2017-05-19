@@ -1,7 +1,3 @@
-// NPCstructure.cpp: implementation of the NPCstructure class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "NPCstructure.h"
 #include "ObjectFlagsListing.h"

@@ -1,7 +1,3 @@
-// ScriptFile.h: interface for the ScriptFile class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SCRIPTFILE_H__1C5D1070_77F3_4C92_B3FE_143F922CF337__INCLUDED_)
 #define AFX_SCRIPTFILE_H__1C5D1070_77F3_4C92_B3FE_143F922CF337__INCLUDED_
 

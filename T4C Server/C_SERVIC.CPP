@@ -1,11 +1,3 @@
-/******************************************
-
-  Windows NT Service Class Library
-	Copyright 1996-1997 Dundas Software Ltd.
-
-*******************************************/
-
-//MFC Users - include the following
 #include "stdafx.h"
 //OWL Users - include the following
 //#include <owl\owlpch.h>

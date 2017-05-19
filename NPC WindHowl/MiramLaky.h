@@ -1,7 +1,3 @@
-// MiramLaky.h: interface for the MiramLaky class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MIRAMLAKY_H__EE1E018D_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_MIRAMLAKY_H__EE1E018D_878D_11D1_BDE9_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// WDAHives.cpp: implementation of the WDAHives class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAHives.h"
 #include "format.h"

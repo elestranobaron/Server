@@ -1,7 +1,3 @@
-// T4CLog.h: interface for the CT4CLog class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_T4CLOG_H__91929B24_3B5C_11D2_83D5_00E02922FA40__INCLUDED_)
 #define AFX_T4CLOG_H__91929B24_3B5C_11D2_83D5_00E02922FA40__INCLUDED_
 

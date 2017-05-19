@@ -1,6 +1,3 @@
-// Gold.cpp: implementation of the Gold class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "Gold.h"
 #include "../IntlText.h"

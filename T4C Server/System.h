@@ -1,6 +1,3 @@
-/**
- * This file contains system-dependant data access methods.
- */
 #ifndef SYSTEM_H
 #define SYSTEM_H
 

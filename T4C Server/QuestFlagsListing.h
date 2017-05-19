@@ -1,6 +1,3 @@
-// QuestFlagsListing.h, created by QuestFlagListing
-// Lists all quest flags
-
 #ifndef __QUESTFLAGSLISTING_H
 #define __QUESTFLAGSLISTING_H
 

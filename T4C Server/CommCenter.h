@@ -1,26 +1,3 @@
-// *******************************************************************************************
-// ***                                                                                     ***
-//      File Name: CommCenter.h
-//      Project:   TFC Server
-//      Plateform: Windows NT 4.0 Workstation/Server
-//      Creation:  8/9/1998
-//      Author:    Francois Leblanc (FL)
-// ***                                                                                     ***
-// *******************************************************************************************
-// ***                                                                                     ***
-//      Change History
-//
-//         Date            Ver.      Author         Purpose
-//         8/9/1998        1.0       FL             Initial developpement
-//
-//      Description
-//          This is a packet interface for the socket. Works on UDP.
-//          
-// ***                                                                                     ***
-//	*******************************************************************************************
-// ***           Copyright (c) 1997-1998 Virtual Dreams. All rights reserved.              ***
-
-
 #if !defined(AFX_COMMCENTER_H__3742E71A_4727_11D2_83EF_00E02922FA40__INCLUDED_)
 #define AFX_COMMCENTER_H__3742E71A_4727_11D2_83EF_00E02922FA40__INCLUDED_
 

@@ -1,6 +1,3 @@
-// Murmuntag.cpp: implementation of the Murmuntag class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "Murmuntag.h"
 

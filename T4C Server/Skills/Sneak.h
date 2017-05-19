@@ -1,7 +1,3 @@
-// Sneak.h: interface for the Sneak class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SNEAK_H__D287BE5E_B3D5_11D3_85DF_00E02922FA40__INCLUDED_)
 #define AFX_SNEAK_H__D287BE5E_B3D5_11D3_85DF_00E02922FA40__INCLUDED_
 

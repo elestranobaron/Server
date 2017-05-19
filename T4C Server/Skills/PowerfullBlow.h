@@ -1,7 +1,3 @@
-// PowerfullBlow.h: interface for the PowerfullBlow class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_POWERFULLBLOW_H__7ADCA874_570C_11D1_BD7D_00E029058623__INCLUDED_)
 #define AFX_POWERFULLBLOW_H__7ADCA874_570C_11D1_BD7D_00E029058623__INCLUDED_
 

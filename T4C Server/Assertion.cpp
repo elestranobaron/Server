@@ -1,8 +1,3 @@
-// Contract pattern implementation code.
-//
-// Defines the assertion handler implementation code.
-// This part is hidden from the interface for easy update of assertion handling.
-
 #include "stdafx.h"
 
 #include "Assertion.h"

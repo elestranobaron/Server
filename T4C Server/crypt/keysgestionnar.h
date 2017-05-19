@@ -1,10 +1,3 @@
-//**********************************************************
-// File: keysgestionnar.h
-// Creation date: 02/19/2005
-// Created by: Scotch for Dialsoft
-// Purpose: E.T. License Key
-//**********************************************************
-
 #ifndef KEYGESTIONNAR_H
 #define KEYGESTIONNAR_H
 

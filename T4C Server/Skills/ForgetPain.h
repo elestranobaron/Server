@@ -1,7 +1,3 @@
-// ForgetPain.h: interface for the ForgetPain class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_FORGETPAIN_H__22D07A04_C4D8_11D1_ADA4_00E029058623__INCLUDED_)
 #define AFX_FORGETPAIN_H__22D07A04_C4D8_11D1_ADA4_00E029058623__INCLUDED_
 

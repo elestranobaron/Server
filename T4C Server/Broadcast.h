@@ -1,7 +1,3 @@
-// Broadcast.h: interface for the Broadcast class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_BROADCAST_H__533D36A3_D2A7_11D0_B549_86A3B4000000__INCLUDED_)
 #define AFX_BROADCAST_H__533D36A3_D2A7_11D0_B549_86A3B4000000__INCLUDED_
 

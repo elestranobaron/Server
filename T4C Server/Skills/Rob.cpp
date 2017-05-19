@@ -1,6 +1,3 @@
-// Rob.cpp: implementation of the Rob class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "Rob.h"
 #include "Peek.h"

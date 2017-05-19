@@ -1,7 +1,3 @@
-// Sword.cpp: implementation of the Sword class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Sword.h"
 

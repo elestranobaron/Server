@@ -1,7 +1,3 @@
-// WDACreatures.h: interface for the WDACreatures class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_WDACREATURES_H__9C6E6333_6095_11D3_856C_00E02922FA40__INCLUDED_)
 #define AFX_WDACREATURES_H__9C6E6333_6095_11D3_856C_00E02922FA40__INCLUDED_
 

@@ -1,7 +1,3 @@
-// VaporizeUnit.h: interface for the VaporizeUnit class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_VAPORIZEUNIT_H__8FAD5A3E_0349_11D3_84F8_00E02922FA40__INCLUDED_)
 #define AFX_VAPORIZEUNIT_H__8FAD5A3E_0349_11D3_84F8_00E02922FA40__INCLUDED_
 

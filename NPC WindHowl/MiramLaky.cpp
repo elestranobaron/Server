@@ -1,6 +1,3 @@
-// MiramLaky.cpp: implementation of the MiramLaky class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "MiramLaky.h"
 

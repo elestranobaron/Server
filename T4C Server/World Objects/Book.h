@@ -1,7 +1,3 @@
-// Book.h: interface for the Book class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_BOOK_H__EF6AD953_57A3_11D1_BD7E_00E029058623__INCLUDED_)
 #define AFX_BOOK_H__EF6AD953_57A3_11D1_BD7E_00E029058623__INCLUDED_
 

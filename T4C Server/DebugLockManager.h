@@ -1,7 +1,3 @@
-// DebugLockManager.h: interface for the CDebugLockManager class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #ifndef DEBUGLOCKMANAGER_H_DEFINITION
 #define DEBUGLOCKMANAGER_H_DEFINITION
     

@@ -1,7 +1,3 @@
-// TwoWeapons.h: interface for the TwoWeapons class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TWOWEAPONS_H__06136B84_C7DF_11D1_ADA9_00E029058623__INCLUDED_)
 #define AFX_TWOWEAPONS_H__06136B84_C7DF_11D1_ADA9_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// SkipperRedBeard.h: interface for the SkipperRedBeard class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SKIPPERREDBEARD_H__C944C5B5_86C5_11D1_BDE7_00E029058623__INCLUDED_)
 #define AFX_SKIPPERREDBEARD_H__C944C5B5_86C5_11D1_BDE7_00E029058623__INCLUDED_
 

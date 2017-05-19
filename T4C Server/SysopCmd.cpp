@@ -1,7 +1,3 @@
-// SysopCmd.cpp: implementation of the SysopCmd class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "SysopCmd.h"

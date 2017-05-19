@@ -1,9 +1,3 @@
-// Rain.cpp: implementation of the Rain class.
-// By:       Scotch for Dialsoft
-// Date:     02/20/2005
-// Purpose:  Raining system & client / server communication
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Rain.h"
 #include "Broadcast.h"

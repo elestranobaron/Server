@@ -1,7 +1,3 @@
-// Reynen_Aspicdart.h: interface for the Reynen_Aspicdart class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCStructure.h"
 
 #ifndef __REYNEN_ASPICDART_H

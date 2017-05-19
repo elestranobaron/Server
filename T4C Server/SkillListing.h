@@ -1,6 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////////////////////
-// Here are listed all skills
-
 #define __SKILL_STUN_BLOW					1		// done
 #define __SKILL_POWERFULL_BLOW				2		// done
 #define __SKILL_CRITICAL_STRIKE				3		// done

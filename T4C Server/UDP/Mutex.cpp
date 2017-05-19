@@ -1,5 +1,3 @@
-
-
 #include "Mutex.h"
 
 CNMMutex::CNMMutex(bool Locked)

@@ -1,7 +1,3 @@
-// SysopCmd.h: interface for the SysopCmd class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SYSOPCMD_H__A4383683_F3D4_11D1_8316_00104B2CA38F__INCLUDED_)
 #define AFX_SYSOPCMD_H__A4383683_F3D4_11D1_8316_00104B2CA38F__INCLUDED_
 

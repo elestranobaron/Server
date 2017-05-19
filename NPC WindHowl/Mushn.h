@@ -1,7 +1,3 @@
-// Mushn.h: interface for the Mushn class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MUSHN_H__EE1E018C_878D_11D1_BDE9_00E029058623__INCLUDED_)
 #define AFX_MUSHN_H__EE1E018C_878D_11D1_BDE9_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// MonsignorDamien.h: interface for the MonsignorDamien class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCStructure.h"
 
 #ifndef __MonsignorDamien_H

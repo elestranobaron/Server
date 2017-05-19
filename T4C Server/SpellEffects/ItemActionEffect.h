@@ -1,7 +1,3 @@
-// ItemActionEffect.h: interface for the ItemActionEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_ITEMACTIONEFFECT_H__7F360D89_351A_4AC6_B238_55403EDE43BD__INCLUDED_)
 #define AFX_ITEMACTIONEFFECT_H__7F360D89_351A_4AC6_B238_55403EDE43BD__INCLUDED_
 

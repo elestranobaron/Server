@@ -1,7 +1,3 @@
-// SpellBook.h: interface for the SpellBook class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SPELLBOOK_H__11208CD3_DB50_11D0_B56F_00E029058623__INCLUDED_)
 #define AFX_SPELLBOOK_H__11208CD3_DB50_11D0_B56F_00E029058623__INCLUDED_
 

@@ -1,7 +1,3 @@
-// FirstAid.h: interface for the FirstAid class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_FIRSTAID_H__95A91053_5FAF_11D1_BD8E_00E029058623__INCLUDED_)
 #define AFX_FIRSTAID_H__95A91053_5FAF_11D1_BD8E_00E029058623__INCLUDED_
 

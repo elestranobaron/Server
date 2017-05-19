@@ -1,5 +1,3 @@
-// DOESN'T leave any file handle open.. so files are always accessible by outside viewers..
-
 #include "stdafx.h"
 #include <windows.h>
 #include <time.h>

@@ -1,7 +1,3 @@
-// Search.h: interface for the Search class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SEARCH_H__58ED3D01_B49F_11D3_85E0_00E02922FA40__INCLUDED_)
 #define AFX_SEARCH_H__58ED3D01_B49F_11D3_85E0_00E02922FA40__INCLUDED_
 

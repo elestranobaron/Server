@@ -1,7 +1,3 @@
-// BishopCrowbanner.h: interface for the BishopCrowbanner class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "NPCStructure.h"
 
 #ifndef __BISHOPCROWBANNER_H

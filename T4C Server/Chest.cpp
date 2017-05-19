@@ -1,7 +1,3 @@
-// Chest.cpp: implementation of the Chest class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 //#include "Chest.h"

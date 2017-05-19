@@ -1,7 +1,3 @@
-// WDAObjectsWorldObjects.cpp: implementation of the WDAObjectsWorldObjects class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAObjectsWorldObjects.h"
 #include "Format.h"

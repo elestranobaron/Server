@@ -1,7 +1,3 @@
-// message_list.h: interface for the message_list class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MESSAGE_LIST_H__330C2EE2_B3EA_11D0_9B9E_444553540000__INCLUDED_)
 #define AFX_MESSAGE_LIST_H__330C2EE2_B3EA_11D0_9B9E_444553540000__INCLUDED_
 

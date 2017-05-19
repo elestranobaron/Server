@@ -1,6 +1,3 @@
-// Meditate.cpp: implementation of the Meditate class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "FastHealing.h"
 

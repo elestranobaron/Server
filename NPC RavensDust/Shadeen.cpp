@@ -1,6 +1,3 @@
-// Shadeen.cpp: implementation of the Shadeen class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "Shadeen.h"
 

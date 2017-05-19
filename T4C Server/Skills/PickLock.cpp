@@ -1,6 +1,3 @@
-// PickLock.cpp: implementation of the CPickLock class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "PickLock.h"
 #include "..\ObjectListing.h"

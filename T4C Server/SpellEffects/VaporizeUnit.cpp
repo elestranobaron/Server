@@ -1,6 +1,3 @@
-// VaporizeUnit.cpp: implementation of the VaporizeUnit class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "VaporizeUnit.h"
 #include "../Players.h"

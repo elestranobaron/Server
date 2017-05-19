@@ -1,7 +1,3 @@
-// CSetup.h: interface for the CSetup class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CSETUP_H__0F8B168F_E5A0_43FB_BE1A_5550358F0137__INCLUDED_)
 #define AFX_CSETUP_H__0F8B168F_E5A0_43FB_BE1A_5550358F0137__INCLUDED_
 

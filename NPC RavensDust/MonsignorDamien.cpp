@@ -1,6 +1,3 @@
-// MonsignorDamien.cpp: implementation of the MonsignorDamien class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "MonsignorDamien.h"
  

@@ -1,7 +1,3 @@
-// SetStatEffect.h: interface for the SetStatEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SETSTATEFFECT_H__E625E99F_B76E_47D6_85F0_8395421F847C__INCLUDED_)
 #define AFX_SETSTATEFFECT_H__E625E99F_B76E_47D6_85F0_8395421F847C__INCLUDED_
 

@@ -1,7 +1,3 @@
-// ItemActionEffect.cpp: implementation of the ItemActionEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "ItemActionEffect.h"
 

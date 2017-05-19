@@ -1,14 +1,3 @@
-// Static Model
-
-// 
-/////////////////////////////////////////////////////////////////////////////
-// FILE:    InstructionFactory
-// PACKAGE: NPC_Editor
-//	Implements the following classes:
-//          InstructionFactory
-//	Date:   November 08, 1900
-//	Author: FrancoisL
-/////////////////////////////////////////////////////////////////////////////
 #ifndef __InstructionFactory__
 #define __InstructionFactory__
 

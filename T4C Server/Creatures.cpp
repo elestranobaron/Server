@@ -1,7 +1,3 @@
-// Creatures.cpp: implementation of the Creatures class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Creatures.h"
 #include "TFC_MAIN.H"

@@ -1,7 +1,3 @@
-// TFCMessagesHandler.cpp: implementation of the TFCMessagesHandler class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "TFC ServerDlg.h"

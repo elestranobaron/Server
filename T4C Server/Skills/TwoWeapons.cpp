@@ -1,6 +1,3 @@
-// TwoWeapons.cpp: implementation of the TwoWeapons class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "TwoWeapons.h"
 #include "..\T4CLog.h"

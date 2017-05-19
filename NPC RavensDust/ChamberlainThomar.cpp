@@ -1,6 +1,3 @@
-// ChamberlainThomar.cpp: implementation of the ChamberlainThomar class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 #include "ChamberlainThomar.h"
 

@@ -1,4 +1,3 @@
-// Here are *listed* ALL objects of the game! cool eh? *not*
 #ifndef __STATICOBJECTREFERENCES_H
 #define __STATICOBJECTREFERENCES_H
 

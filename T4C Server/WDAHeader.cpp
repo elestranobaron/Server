@@ -1,7 +1,3 @@
-// WDAHeader.cpp: implementation of the WDAHeader class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDAHeader.h"
 #include "WDAFile.h"

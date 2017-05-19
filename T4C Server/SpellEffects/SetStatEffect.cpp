@@ -1,7 +1,3 @@
-// SetStatEffect.cpp: implementation of the SetStatEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "SetStatEffect.h"
 #include "..\Broadcast.h"

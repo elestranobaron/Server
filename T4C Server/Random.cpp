@@ -1,7 +1,3 @@
-// Random.cpp: implementation of the Random class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "Random.h"
 #include <algorithm>

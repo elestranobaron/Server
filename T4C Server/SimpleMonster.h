@@ -1,7 +1,3 @@
-// SimpleMonster.h: interface for the SimpleMonster class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SIMPLEMONSTER_H__8745E2D3_0F4C_11D1_BCDB_00E029058623__INCLUDED_)
 #define AFX_SIMPLEMONSTER_H__8745E2D3_0F4C_11D1_BCDB_00E029058623__INCLUDED_
 

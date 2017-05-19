@@ -1,7 +1,3 @@
-// Markam.h: interface for the Markam class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_MARKAM_H__DEE8E305_35F6_11D1_BD3D_00E029058623__INCLUDED_)
 #define AFX_MARKAM_H__DEE8E305_35F6_11D1_BD3D_00E029058623__INCLUDED_
 

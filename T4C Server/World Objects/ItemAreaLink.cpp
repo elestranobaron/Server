@@ -1,7 +1,3 @@
-// Bow.cpp: implementation of the Bow class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "ItemAreaLink.h"
 

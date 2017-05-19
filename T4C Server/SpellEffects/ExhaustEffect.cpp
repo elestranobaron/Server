@@ -1,6 +1,3 @@
-// ExhaustEffect.cpp: implementation of the ExhaustEffect class.
-//
-//////////////////////////////////////////////////////////////////////
 #pragma hdrstop
 
 #include "stdafx.h"

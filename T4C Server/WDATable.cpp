@@ -1,7 +1,3 @@
-// WDATable.cpp: implementation of the WDATable class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "WDATable.h"
 

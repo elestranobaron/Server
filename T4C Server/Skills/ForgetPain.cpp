@@ -1,6 +1,3 @@
-// ForgetPain.cpp: implementation of the ForgetPain class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "ForgetPain.h"
 

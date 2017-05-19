@@ -1,7 +1,3 @@
-// Players.cpp: implementation of the Players class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #include "stdafx.h"
 #include "TFC Server.h"
 #include "Players.h"
@@ -49,7 +45,7 @@ namespace{
     } cAutoLoad;
 };
 
-DWORD Players::dwAutoSaveFrequency = 240; //Dialsoft modified delay, was 600 initially//BLBLBL mis à 240 au lieu de 120, pour limiter usage SQL
+DWORD Players::dwAutoSaveFrequency = 240; //BLBLBL mis à 240 au lieu de 120, pour limiter usage SQL
 
 //////////////////////////////////////////////////////////////////////
 // Construction/Destruction
@@ -1161,7 +1157,6 @@ void Players::QueryNextSave( void )
 
             // Set next auto-save time.
             dwNextSave = rnd( dwAutoSaveFrequency - 30, dwAutoSaveFrequency + 30 ) SECONDS TDELAY;
-		    //Dialsoft modification : - 30 instead of -60 ^^  
 			// dwAutoSaveFrequency = 300, which is 5 minutes.
         }
     }

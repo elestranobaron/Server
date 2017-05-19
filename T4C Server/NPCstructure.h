@@ -1,7 +1,3 @@
-// NPCstructure.h: interface for the NPCstructure class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_NPCSTRUCTURE_H__8745E2D4_0F4C_11D1_BCDB_00E029058623__INCLUDED_)
 #define AFX_NPCSTRUCTURE_H__8745E2D4_0F4C_11D1_BCDB_00E029058623__INCLUDED_
 
@@ -11,7 +7,6 @@
 
 //#include "stdafx.h"
 #include "Unit.h"
-#include "StaticFlags.h"
 #include "random.h"
 #include "MonsterStructure.h"
 #include "Broadcast.h"

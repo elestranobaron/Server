@@ -1,7 +1,3 @@
-// SysMsgEffect.h: interface for the SysMsgEffect class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_SYSMSGEFFECT_H__3083F3AE_1C84_498D_A424_A5E03C5DEC63__INCLUDED_)
 #define AFX_SYSMSGEFFECT_H__3083F3AE_1C84_498D_A424_A5E03C5DEC63__INCLUDED_
 

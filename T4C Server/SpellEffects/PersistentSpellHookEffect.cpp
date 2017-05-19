@@ -1,8 +1,3 @@
-// PersistentSpellHookEffect.cpp: implementation of the PersistentSpellHookEffect class.
-// The difference between this and the SpellHookEffect is that this one wont wear off 
-// when Characters die.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "PersistentSpellHookEffect.h"
 #include "../SpellMessageHandler.h"

@@ -264,7 +264,7 @@ ELSEIF ((CheckFlag(__FLAG_NAME_LOTTERY_TICKET) == 0) && (CheckFlag(__FLAG_NAME_L
 ELSE
 // * * * PRAY GOD THAT THE USER WON'T SEE THIS * * * 
 	Conversation
-	INTL( 6048, "{The} {script} {should} {have} {ended} {previously.} {Please} {report} {this} {bug} {to} {Vircom} {immediately.}")
+	INTL( 6048, "{The} {script} {should} {have} {ended} {previously.} {Please} {report} {this} {bug} {to} {Rebirth} {immediately.}")
 ENDIF
 
 Command(INTL( 6026, "JACKPOT"))

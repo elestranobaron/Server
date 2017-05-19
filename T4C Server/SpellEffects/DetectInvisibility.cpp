@@ -1,6 +1,3 @@
-// DetectDetectInvisibility.cpp: implementation of the DetectDetectInvisibility class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "DetectInvisibility.h"
 #include "../TFC_MAIN.h"

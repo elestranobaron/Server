@@ -1,13 +1,3 @@
-// TFC_MAIN.h: interface for the TFC_MAIN class.
-//
-// This somehow simulates good old main() ;) Its primary purpose
-// though is to localize all MAIN server fonction non-related to
-// windowing systems. So it will be called by OnIdle which will
-// pass the fonction to TFC for a round.
-//
-// Francois Leblanc 1997
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_TFC_MAIN_H__ED5A8768_A9CC_11D0_9B9E_444553540000__INCLUDED_)
 #define AFX_TFC_MAIN_H__ED5A8768_A9CC_11D0_9B9E_444553540000__INCLUDED_
 

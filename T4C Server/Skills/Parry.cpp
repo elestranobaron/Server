@@ -1,6 +1,3 @@
-// Parry.cpp: implementation of the Parry class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "Parry.h"
 #include "..\TFC Server.h"
@@ -122,7 +119,7 @@ int Parry::Func
 				);
 
 
-				if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER ){
+				if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER){
 					self->SendSystemMessage("Attack deflected by your parry skill.");
 				}
 			}

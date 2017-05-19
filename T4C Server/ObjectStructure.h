@@ -1,7 +1,3 @@
-// ObjectStructure.h: interface for the ObjectStructure class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_OBJECTSTRUCTURE_H__85695826_0609_11D1_AD66_00E029058623__INCLUDED_)
 #define AFX_OBJECTSTRUCTURE_H__85695826_0609_11D1_AD66_00E029058623__INCLUDED_
 
@@ -10,7 +6,6 @@
 #endif // _MSC_VER >= 1000
 
 //#include "stdafx.h"
-#include "StaticFlags.h"
 #include "random.h"
 #include "TFC_MAIN.h"
 #include "Broadcast.h"

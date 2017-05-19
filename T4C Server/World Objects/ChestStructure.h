@@ -1,7 +1,3 @@
-// ChestStructure.h: interface for the ChestStructure class.
-//
-//////////////////////////////////////////////////////////////////////
-
 #if !defined(AFX_CHESTSTRUCTURE_H__71302979_E8E6_4222_A0AE_505FF3D47467__INCLUDED_)
 #define AFX_CHESTSTRUCTURE_H__71302979_E8E6_4222_A0AE_505FF3D47467__INCLUDED_
 

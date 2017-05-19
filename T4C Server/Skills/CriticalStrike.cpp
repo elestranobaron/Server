@@ -1,6 +1,3 @@
-// CriticalStrike.cpp: implementation of the CriticalStrike class.
-//
-//////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
 #include "CriticalStrike.h"
 
@@ -74,7 +71,7 @@ Mouhaha * Damage = Damage done ce round la.
 			int nDamMod = 6 - dwDiceRoll;
 			s_asBlow->Strike *= nDamMod;
 
-			if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER )
+			if( ((Character*)self)->GetGodFlags() & GOD_DEVELOPPER)
 			{
 				CString csMessage;
 		 		csMessage.Format( "[\"Critical\" \"Strike\"] increased damages. (Old: %lf, New: %lf)", (double) s_asBlow->Strike/nDamMod, s_asBlow->Strike );

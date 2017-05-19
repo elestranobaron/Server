@@ -1,4 +1,3 @@
-
 #ifndef __TFCSERVERGP_H
 #define __TFCSERVERGP_H
 

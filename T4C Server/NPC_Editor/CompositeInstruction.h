@@ -1,14 +1,3 @@
-// Static Model
-
-// 
-/////////////////////////////////////////////////////////////////////////////
-// FILE:    CompositeInstruction
-// PACKAGE: NPC_Editor
-//	Implements the following classes:
-//          CompositeInstruction
-//	Date:   November 08, 1900
-//	Author: FrancoisL
-/////////////////////////////////////////////////////////////////////////////
 #ifndef __CompositeInstruction__
 #define __CompositeInstruction__
 
